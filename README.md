@@ -80,3 +80,5 @@ Moving onto Project for global differential privacy.
 Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
 #udacityfacebookscholar
+
+[60daysofudacity PLEDGE](60daysofudacity.JPG)
