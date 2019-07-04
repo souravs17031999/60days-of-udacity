@@ -1,11 +1,11 @@
 # 60days-of-udacity
 ## *#DAY 7:* Completed :
-✅Started Federated learning #l6_federated_learning
-➡️ I Watched the lessons 7.1 - 7.6 , https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
-✅ Read research paper from #reading_paper_discuss on topic : Differentially Private Federated Learning: A Client Level Perspective
-➡️  https://arxiv.org/pdf/1712.07557.pdf
-✅  Scored 90% in the quiz on the above mentioned paper organised by Papers Discussion Club
-➡️https://github.com/papersdclub/Differentially_private_federated_learning
+  ✅Started Federated learning #l6_federated_learning
+  ➡️ I Watched the lessons 7.1 - 7.6 , https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
+  ✅ Read research paper from #reading_paper_discuss on topic : Differentially Private Federated Learning: A Client Level Perspective
+  ➡️  https://arxiv.org/pdf/1712.07557.pdf
+  ✅  Scored 90% in the quiz on the above mentioned paper organised by Papers Discussion Club
+  ➡️https://github.com/papersdclub/Differentially_private_federated_learning
 
 #udacityfacebookscholar
 #60daysofudacity
