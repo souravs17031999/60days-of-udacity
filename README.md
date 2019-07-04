@@ -81,4 +81,4 @@ Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
 #udacityfacebookscholar
 
-![60daysofudacity pledge photo](60daysofudacity.JPG)
+![#60DAYSOFUDACITY](60daysofudacity.JPG)
