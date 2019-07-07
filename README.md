@@ -1,4 +1,38 @@
 # 60days-of-udacity
+## *DAY 10:* Completed :
+* Updated and completed following repo of federated learning :
+* ✅ Project -IX : federated learning using PySyft and Pytorch
+* ➡ https://lnkd.in/fbiJxRX
+* ✅ Project - X : Applying federated learning on simple linear model for training
+* ➡️ https://lnkd.in/f4_ZTar
+* ✅ Got 3rd position in QOTW competition #motivation
+* ➡️ Talked and discussed about plans for our group channel #sg_dlstarguys
+
+#udacityfacebookscholar
+#60daysofudacity
+
+
+## *DAY 9:* Completed :
+* ✅ Revision Of Federated Learning Lessons 7.1 - 7.9
+* ➡️ https://lnkd.in/fS34hwt
+* ✅ Read Florian Hartmann (Google AI researcher) thesis on federated learning
+* ➡️ https://lnkd.in/fEenUZA
+* ✅ Continuing on reading GAN research paper #reading_paper_discuss  papers discussion club
+* ➡️ https://lnkd.in/f8ittNH 
+
+#udacityfacebookscholar
+#60daysofudacity
+
+## *#DAY 8:* Completed :
+* ✅ Federated Learning : completed 7.6  - 7.9
+* ➡️  https://lnkd.in/fS34hwt
+* ✅ Participated and Answered several questions on #ama_sessions and cleared few my doubts.
+* ✅ Started reading research paper on GAN (Generative Adversarial Nets) #reading_paper_discuss - Papers Discussion Club
+* ➡️ https://lnkd.in/f8ittNH
+
+#udacityfacebookscholar
+#60daysofudacity
+
 ## *#DAY 7:* Completed :
 * ✅Started Federated learning #l6_federated_learning
 * ➡️ I Watched the lessons 7.1 - 7.6 , https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
