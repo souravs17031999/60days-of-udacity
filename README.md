@@ -166,4 +166,4 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 #udacityfacebookscholar
 #60daysofudacity
 
-![#60DAYSOFUDACITY](60daysofudacity.jpg)
+![#60DAYSOFUDACITY](pics/60daysofudacity.jpg)
