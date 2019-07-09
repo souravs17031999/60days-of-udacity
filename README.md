@@ -5,7 +5,8 @@
 * ✅ notebooks of differential privacy , sensitivity and differential attack
 * 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
 * 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
-
+* 📷 [pics/d1p1.jpg](pics/d1p1.JPG)
+* 📷 [pics/d1p2.jpg](pics/d1p2.JPG)
 
 Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
@@ -20,6 +21,8 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 * ➡️ I learnt to implement local differential privacy in the database by adding noise to the input data and how it affects the statistics.
 * ✅ Project - V :🔗 https://github.com/…/random_noise_analysis_differential_pri…
 * ➡️ I learnt how to add random noise by adding bias to the coin toss algorithm and how it affects the statistics and observe the changes while i grow the size of dataset.
+* 📷 [pics/d2p2.jpg](pics/d2p2.jpg)
+* 📷 [pics/d2p2.jpg](pics/d2p2.JPG)
 
 I learnt that the idea of differential privacy is to simply block or filter out the results which are unique for a individual in a sensitive dataset and allow and focus more onto learn about the general characteristics of the individuals which is visible across most of the datapoints in the dataset.
 
@@ -36,6 +39,10 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 * ➡️ I learnt how to add random noise either in the input of the data points or in the output of the query function and then analysing epsilon and delta parameter from formal definition of differential privacy.
 * ✔️ Collected 8 questions for #l2_intro_diff_privacy  for fatqs - secure and private ai.
 * 🔗 https://fatqs-private-and-secure-ai.herokuapp.com/src/lesson.php?id=1V3Ny7jzXgQ5fDHohy7CzomvIyWJ8WUaTm-iJRRjDa3w&title=%3Cb%3ELesson%202:%3C/b%3E%20Introducing%20Differential%20Privacy
+* 📷 [pics/d3p1.jpg](pics/d3p1.jpg)
+* 📷 [pics/d3p2.jpg](pics/d3p2.jpg)
+* 📷 [pics/d3p3.jpg](pics/d3p3.jpg)
+* 📷 [pics/d3p3.jpg](pics/d3p3.jpg)
 
 Moving onto #l5_diff_privacy_dl .
 Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
@@ -49,6 +56,9 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 * ✔️ Participated in Kahoot Quiz 
 * 🔗 https://docs.google.com/spreadsheets/d/1NFwH2rUfznDe3NCdzaLBgN6xxHRMJnMvkzryCVobqIA/edit
 * ✔️ Started #l5_diff_privacy_dl 
+* 📷 [pics/d4p1.jpg](pics/d4p1.jpg)
+* 📷 [pics/d4p2.jpg](pics/d4p2.jpg)
+* 📷 [pics/d4p3.jpg](pics/d4p3.jpg)
 
 Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
 
@@ -63,6 +73,10 @@ I learnt that if we have unlabelled dataset then to annotate them with labels we
 * 🔗 https://github.com/AceEviliano/Reading-Facebook-Secure-and-Private-AI-Scholarship
 * ✅ Participated in #ama_sessions from 5:00 pm to 6:00 pm. (IST)
 * 🔗 https://docs.google.com/document/d/1TFoA-wRg-7exiBvqiFfjV52OFkmRdc9_q1Oq88If0qM/edit?usp=sharing
+* 📷 [pics/d5p1.jpg](pics/d5p1.jpg)
+* 📷 [pics/d5p2.jpg](pics/d5p2.jpg)
+* 📷 [pics/d5p3.jpg](pics/d5p3.jpg)
+* 📷 [pics/d5p4.jpg](pics/d5p4.jpg)
 
 Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learning.
 
@@ -78,6 +92,12 @@ Today, I would like to encourage @aniketmitra1997@swapnil6195 to follow along.
 * ➡️ I learnt and read about PATE analysis , done pate analysis on randomly generated datasets and now going on to implementing on MNIST dataset.
 * ✅ Answered several questions on #l4_loc_glob_diff_priv  ,  #l5_diff_privacy_dl and #beginners .
 * ✅ Watched guest videos in #l5_diff_privacy_dl
+* 📷 [pics/d6p1.jpg](pics/d6p1.jpg)
+* 📷 [pics/d6p2.jpg](pics/d6p2.jpg)
+* 📷 [pics/d6p3.jpg](pics/d6p3.jpg)
+* 📷 [pics/d6p4.jpg](pics/d6p4.jpg)
+* 📷 [pics/d6p5.jpg](pics/d6p5.jpg)
+* 📷 [pics/d6p6.jpg](pics/d6p6.jpg)
 
 Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
 
@@ -91,6 +111,9 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 * 🔗 https://arxiv.org/pdf/1712.07557.pdf
 * ✅ Scored 90% in the quiz on the above mentioned paper organised by Papers Discussion Club
 * 🔗 https://github.com/papersdclub/Differentially_private_federated_learning
+* 📷 [pics/d7p1.jpg](pics/d7p1.jpg)
+* 📷 [pics/d7p2.jpg](pics/d7p2.jpg)
+* 📷 [pics/d7p3.jpg](pics/d7p3.jpg)
 
 Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
 
@@ -103,6 +126,9 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 * ✅ Participated and Answered several questions on #ama_sessions and cleared few my doubts.
 * ✅ Started reading research paper on GAN (Generative Adversarial Nets) #reading_paper_discuss - Papers Discussion Club
 * 🔗 https://lnkd.in/f8ittNH
+* 📷 [pics/d8p1.jpg](pics/d8p1.jpg)
+* 📷 [pics/d8p2.jpg](pics/d8p2.jpg)
+* 📷 [pics/d8p3.jpg](pics/d8p3.jpg)
 
 Today, i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@aniketmitra1997@kengying5@yemissi.kifouly@carlo12david to follow along.
 
@@ -116,6 +142,10 @@ Today, i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@
 * 🔗 https://lnkd.in/fEenUZA
 * ✅ Continuing on reading GAN research paper #reading_paper_discuss  papers discussion club
 * 🔗 https://lnkd.in/f8ittNH 
+* 📷 [pics/d9p1.jpg](pics/d9p1.jpg)
+* 📷 [pics/d9p2.jpg](pics/d9p2.jpg)
+* 📷 [pics/d9p3.jpg](pics/d9p3.jpg)
+* 📷 [pics/d9p4.jpg](pics/d9p4.jpg)
 
 Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@aniketmitra1997@kengying5@yemissi.kifouly@carlo12david to 
 follow along and post their updates.
@@ -131,6 +161,9 @@ follow along and post their updates.
 * 🔗 https://lnkd.in/f4_ZTar
 * ✅ Got 3rd position in QOTW competition #motivation
 * ➡️ Talked and discussed about plans for our group channel #sg_dlstarguys
+* 📷 [pics/d10p1.jpg](pics/d10p1.jpg)
+* 📷 [pics/d10p2.jpg](pics/d10p2.jpg)
+* 📷 [pics/d10p3.jpg](pics/d10p3.jpg)
 
 I would like to encourage today @aniketmitra1997@shashi.gharti@manishajhunjhunwala7@elie.wanko@carlo12david@kengying5@yemissi.kifouly@labknr98@17ucs092@swapnil6195@garg4.ag@george.christ1987@workwithpurpose@sankalpdayal5 to follow and post their updates.
 
@@ -146,6 +179,11 @@ I would like to encourage today @aniketmitra1997@shashi.gharti@manishajhunjhunwa
 * 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562433222354100
 * ✅ Attended first virtual meetup organised by @Aniket Mitra for our study group #sg_dlstarguys and discussed the plans and agenda.
   🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1562509655083900
+* 📷 [pics/d11p1.jpg](pics/d11p1.jpg)
+* 📷 [pics/d11p2.jpg](pics/d11p2.jpg)
+* 📷 [pics/d11p3.jpg](pics/d11p3.jpg)
+* 📷 [pics/d11p4.jpg](pics/d11p4.jpg)
+* 📷 [pics/d11p5.jpg](pics/d11p5.jpg)
 
 Thanks and big shoutout to all @nabhanpv @Aniket Mitra @Archit @Shanmugapriya @Shikhar Vaish @Aarthi Alagammai @Akshay Pal @Salomon @Fadillah Bilqis @Bhanu Prakash Uchula
 
@@ -162,8 +200,32 @@ I would lie to encourage @Aniket Mitra @Archit @Manisha @Varez.W @Shashi Gharti 
 * 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
 * ✅ Answered several questions on #ama_sessions
 * 🔗 https://docs.google.com/document/d/1TFoA-wRg-7exiBvqiFfjV52OFkmRdc9_q1Oq88If0qM/edit?usp=sharing
+* 📷 [pics/d12p1.jpg](pics/d12p1.jpg)
+* 📷 [pics/d12p2.jpg](pics/d12p2.jpg)
+* 📷 [pics/d12p3.jpg](pics/d12p3.jpg)
+* 📷 [pics/d12p4.jpg](pics/d12p4.jpg)
 
 Today , I would like to encourage @Varez.W @Manisha @Shashi Gharti @Archit @Mohit @Michael Sheinman @George Christopoulos @Anna Scott @Sky @Carlo David @Aniket Mitra @Shanmugapriya @Aarthi Alagammai @Alejandro Galindo @Alejandro Aristizábal @Alejandro Galindo @Labiba @Sankalp Dayal @nabhanpv @Yemi @Carlo David
+
+#udacityfacebookscholar
+#60daysofudacity
+
+## DAY 13 [9/7/19]: Completed :
+* ✅ Completed all notebooks for federated learning #l6_federated_learning and working for final project.
+* 🔗 https://github.com/souravs17031999/private-ai
+* ✅ Updated 60daysofudacity repo on github including all updates
+* 🔗 https://github.com/souravs17031999/60days-of-udacity
+* ✅ Read medium article on data exploration
+* 🔗 https://towardsdatascience.com/exploratory-data-analysis-getting-started-6860b6df923
+* ✅ Read articles from Cezanne Camacho blog on CNN's
+* 🔗 https://cezannec.github.io/
+* ✅ Discussed plans for this week in our group #sg_dlstarguys
+* 🔗 join here : #sg_dlstarguys
+* 📷 [pics/d13p1.jpg](pics/d13p1.jpg)
+* 📷 [pics/d13p2.jpg](pics/d13p2.jpg)
+* 📷 [pics/d13p3.jpg](pics/d13p3.jpg)
+
+I would like to encourage @Varez.W @Archit @Sky @Aniket Mitra @Carlo David @Shashi Gharti  @Labiba @Anna Scott @Michael Sheinman @Shashi Gharti @Shanmugapriya @George Christopoulos @Mohit @Yemi @Munira Omar @Shubhangi Jena @Manisha to follow and post their updates.
 
 #udacityfacebookscholar
 #60daysofudacity
