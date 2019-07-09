@@ -221,9 +221,9 @@ Today , I would like to encourage @Varez.W @Manisha @Shashi Gharti @Archit @Mohi
 * 🔗 https://cezannec.github.io/
 * ✅ Discussed plans for this week in our group #sg_dlstarguys
 * 🔗 join here : #sg_dlstarguys
-* 📷 [pics/d13p1.jpg](pics/d13p1.jpg)
-* 📷 [pics/d13p2.jpg](pics/d13p2.jpg)
-* 📷 [pics/d13p3.jpg](pics/d13p3.jpg)
+* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
+* 📷 [pics/d13p2.jpg](pics/d13p2.JPG)
+* 📷 [pics/d13p3.jpg](pics/d13p3.JPG)
 
 I would like to encourage @Varez.W @Archit @Sky @Aniket Mitra @Carlo David @Shashi Gharti  @Labiba @Anna Scott @Michael Sheinman @Shashi Gharti @Shanmugapriya @George Christopoulos @Mohit @Yemi @Munira Omar @Shubhangi Jena @Manisha to follow and post their updates.
 
