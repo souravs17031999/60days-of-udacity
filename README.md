@@ -5,7 +5,7 @@
 * ✅ notebooks of differential privacy , sensitivity and differential attack
 * 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
 * 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
-![#60DAYSOFUDACITY](pics/d1p1.jpg)
+
 
 Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
