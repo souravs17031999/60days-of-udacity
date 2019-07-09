@@ -212,15 +212,15 @@ Today , I would like to encourage @Varez.W @Manisha @Shashi Gharti @Archit @Mohi
 
 ## DAY 13 [9/7/19]: Completed :
 * ✅ Completed all notebooks for federated learning #l6_federated_learning and working for final project.
-* ➡️ https://github.com/souravs17031999/private-ai
+* 🔗 https://github.com/souravs17031999/private-ai
 * ✅ Updated 60daysofudacity repo on github including all updates
-* ➡️ https://github.com/souravs17031999/60days-of-udacity
+* 🔗 https://github.com/souravs17031999/60days-of-udacity
 * ✅ Read medium article on data exploration
-* ➡️ https://towardsdatascience.com/exploratory-data-analysis-getting-started-6860b6df923
+* 🔗 https://towardsdatascience.com/exploratory-data-analysis-getting-started-6860b6df923
 * ✅ Read articles from Cezanne Camacho blog on CNN's
-* ➡️ https://cezannec.github.io/
+* 🔗 https://cezannec.github.io/
 * ✅ Discussed plans for this week in our group #sg_dlstarguys
-* ➡️ join here : #sg_dlstarguys
+* 🔗 join here : #sg_dlstarguys
 * 📷 [pics/d13p1.jpg](pics/d13p1.jpg)
 * 📷 [pics/d13p2.jpg](pics/d13p2.jpg)
 * 📷 [pics/d13p3.jpg](pics/d13p3.jpg)
