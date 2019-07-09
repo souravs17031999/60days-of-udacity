@@ -1,23 +1,24 @@
 # 60days-of-udacity
 ## DAY 12 [8/7/19]: Completed :
-✅ Project -XI : Federated learning on toy dataset , advanced tensor operations and pointer chain operations
-➡️ https://github.com/souravs17031999/private-ai/blob/master/federated_learning_advanced_remote_tensoroperations.ipynb
-✅ Working on final project for #l6_federated_learning
-✅ Started course of maths for machine learning  - Mathematics for Machine Learning: Linear Algebra
-➡️ https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
-✅ Answered several questions on #ama_sessions
+* ✅ Project -XI : Federated learning on toy dataset , advanced tensor operations and pointer chain operations
+* ➡️ https://github.com/souravs17031999/private-ai/blob/master/federated_learning_advanced_remote_tensoroperations.ipynb
+* ✅ Working on final project for #l6_federated_learning
+* ✅ Started course of maths for machine learning  - Mathematics for Machine Learning: Linear Algebra
+* ➡️ https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* ✅ Answered several questions on #ama_sessions
+* ➡️ https://docs.google.com/document/d/1TFoA-wRg-7exiBvqiFfjV52OFkmRdc9_q1Oq88If0qM/edit?usp=sharing
 
 #udacityfacebookscholar
 #60daysofudacity
 
 ## DAY 11 [7/7/19]: Completed :
-✅  Written a medium article for Secure And Private AI publication on "Federated Learning"
-➡️  https://medium.com/secure-and-private-ai-writing-challenge/federated-learning-securing-the-data-of-users-3c939bace398
-✅  Participated in Kahoot quiz and won , came 1st .
-➡️  https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562505188155300
-✅ Solved Maths problems in #math_help , initiative by @Swapnil Gaikwad
-➡️  https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562433222354100
-✅ Attended first virtual meetup organised by @Aniket Mitra for our study group #sg_dlstarguys and discussed the plans and agenda.
+* ✅  Written a medium article for Secure And Private AI publication on "Federated Learning"
+* ➡️  https://medium.com/secure-and-private-ai-writing-challenge/federated-learning-securing-the-data-of-users-3c939bace398
+* ✅  Participated in Kahoot quiz and won , came 1st .
+* ➡️  https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562505188155300
+* ✅ Solved Maths problems in #math_help , initiative by @Swapnil Gaikwad
+* ➡️  https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562433222354100
+* ✅ Attended first virtual meetup organised by @Aniket Mitra for our study group #sg_dlstarguys and discussed the plans and agenda.
 
 #udacityfacebookscholar
 #60daysofudacity
