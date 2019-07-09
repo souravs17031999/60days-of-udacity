@@ -6,6 +6,7 @@
 * 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
 * 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
 ![#60DAYSOFUDACITY](pics/d1p1.JPG)
+![#60DAYSOFUDACITY](pics/d1p2.JPG)
 
 Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
