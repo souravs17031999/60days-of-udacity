@@ -1,8 +1,8 @@
 # 60days-of-udacity
-## *DAY 10:* Completed :
+## DAY 10: Completed :
 * Updated and completed following repo of federated learning :
 * ✅ Project -IX : federated learning using PySyft and Pytorch
-* ➡ https://lnkd.in/fbiJxRX
+* ➡️ https://lnkd.in/fbiJxRX
 * ✅ Project - X : Applying federated learning on simple linear model for training
 * ➡️ https://lnkd.in/f4_ZTar
 * ✅ Got 3rd position in QOTW competition #motivation
@@ -12,7 +12,7 @@
 #60daysofudacity
 
 
-## *DAY 9:* Completed :
+## DAY 9: Completed :
 * ✅ Revision Of Federated Learning Lessons 7.1 - 7.9
 * ➡️ https://lnkd.in/fS34hwt
 * ✅ Read Florian Hartmann (Google AI researcher) thesis on federated learning
@@ -23,7 +23,7 @@
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 8:* Completed :
+## DAY 8: Completed :
 * ✅ Federated Learning : completed 7.6  - 7.9
 * ➡️  https://lnkd.in/fS34hwt
 * ✅ Participated and Answered several questions on #ama_sessions and cleared few my doubts.
@@ -33,7 +33,7 @@
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 7:* Completed :
+## DAY 7: Completed :
 * ✅Started Federated learning #l6_federated_learning
 * ➡️ I Watched the lessons 7.1 - 7.6 , https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
 * ✅ Read research paper from #reading_paper_discuss on topic : Differentially Private Federated Learning: A Client Level Perspective
@@ -44,7 +44,7 @@
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 6:* Completed :
+## DAY 6: Completed :
 * ✅ Project -VII : https://github.com/souravs17031999/private-ai/blob/master/annotating_unlabelled_dataset_using_dp_query.ipynb
 * ➡️ I learnt how to take private datasets (teacher models sensitive data) and use it to annotate unlabelled datasets.
 * ✅ Project - VIII : https://github.com/souravs17031999/private-ai/blob/master/PATE_ANALYSIS_AND_IMPLEMENTATION.ipynb
@@ -55,7 +55,7 @@
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 5:* Completed :
+## DAY 5: Completed :
 * ✅ Project -VII : https://github.com/souravs17031999/private-ai/blob/master/annotating_unlabelled_dataset_using_dp_query.ipynb
 * ➡️ Today  , i learnt what was the purpose of all the previous lessons as all the topics  like creating private databases , calculating sensitivity for queries and adding noise were totally relatable to the deep learning context. 
 I learnt that if we have unlabelled dataset then to annotate them with labels we can simply follow few steps - firstly we need to find similar organisations having same kind of datasets and they all have same kind of labels and then they train their models on their private datasets and give predictions , then i use that all that predictions to  find the most highest prediction and then using DP query , i label them finally.
@@ -68,7 +68,7 @@ Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learnin
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 4:* Completed : 
+## DAY 4: Completed : 
 * ✔️ Written a medium article on " idea of differential privacy "under Secure And Private Ai publication - 
 * ➡️ https://medium.com/secure-and-private-ai-writing-challenge/idea-of-differential-privacy-and-why-is-it-important-5fccad64a1a … 
 * ✔️ Participated in Kahoot Quiz 
@@ -76,7 +76,7 @@ Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learnin
 #udacityfacebookscholar 
 #60daysofudacity
 
-## *#DAY 3:* Completed :
+## DAY 3: Completed :
 * ✔️ Project -VI : https://github.com/souravs17031999/private-ai/blob/master/adding_laplacian_noise_global_diff_privacy.ipynb
 * ➡️ I learnt to implement global differential privacy in the database by adding laplacian noise to the output of query function and how it affects the statistics.
 * ✔️ Completed the #l4_loc_glob_diff_priv
@@ -87,7 +87,7 @@ Moving onto #l5_diff_privacy_dl .
 #udacityfacebookscholar
 #60daysofudacity
 
-## *#DAY 2:* Completed :
+## DAY 2: Completed :
 
 * ✅Project -IV : https://github.com/…/noise_and_without_noise_db_analysis.ip…
 
@@ -104,7 +104,7 @@ Moving onto Project for global differential privacy.
 #udacityfacebookscholar
 
 
-## *#DAY 1:* Completed :
+## DAY 1: Completed :
 * ✅ notebooks of differential privacy , sensitivity and differential attack
 
 * ➡️ https://github.com/…/mast…/differential_privacy_attack.ipynb …
