@@ -8,6 +8,8 @@
 * ✅ Answered several questions on #ama_sessions
 * 🔗 https://docs.google.com/document/d/1TFoA-wRg-7exiBvqiFfjV52OFkmRdc9_q1Oq88If0qM/edit?usp=sharing
 
+Today , I would like to encourage @Varez.W @Manisha @Shashi Gharti @Archit @Mohit @Michael Sheinman @George Christopoulos @Anna Scott @Sky @Carlo David @Aniket Mitra @Shanmugapriya @Aarthi Alagammai @Alejandro Galindo @Alejandro Aristizábal @Alejandro Galindo @Labiba @Sankalp Dayal @nabhanpv @Yemi @Carlo David
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -20,6 +22,11 @@
 * 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562433222354100
 * ✅ Attended first virtual meetup organised by @Aniket Mitra for our study group #sg_dlstarguys and discussed the plans and agenda.
   🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1562509655083900
+
+Thanks and big shoutout to all @nabhanpv @Aniket Mitra @Archit @Shanmugapriya @Shikhar Vaish @Aarthi Alagammai @Akshay Pal @Salomon @Fadillah Bilqis @Bhanu Prakash Uchula
+
+I would lie to encourage @Aniket Mitra @Archit @Manisha @Varez.W @Shashi Gharti @Yemi @Anna Scott @Sky @Carlo David @Agata @George Christopoulos @Sankalp Dayal @Mohit @Michael Sheinman @Mohona @Labiba @nabhanpv to post their updates as well.
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -31,6 +38,8 @@
 * 🔗 https://lnkd.in/f4_ZTar
 * ✅ Got 3rd position in QOTW competition #motivation
 * ➡️ Talked and discussed about plans for our group channel #sg_dlstarguys
+
+I would like to encourage today @aniketmitra1997@shashi.gharti@manishajhunjhunwala7@elie.wanko@carlo12david@kengying5@yemissi.kifouly@labknr98@17ucs092@swapnil6195@garg4.ag@george.christ1987@workwithpurpose@sankalpdayal5 to follow and post their updates.
 
 #udacityfacebookscholar
 #60daysofudacity
@@ -44,6 +53,9 @@
 * ✅ Continuing on reading GAN research paper #reading_paper_discuss  papers discussion club
 * 🔗 https://lnkd.in/f8ittNH 
 
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@aniketmitra1997@kengying5@yemissi.kifouly@carlo12david to 
+follow along and post their updates.
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -53,6 +65,8 @@
 * ✅ Participated and Answered several questions on #ama_sessions and cleared few my doubts.
 * ✅ Started reading research paper on GAN (Generative Adversarial Nets) #reading_paper_discuss - Papers Discussion Club
 * 🔗 https://lnkd.in/f8ittNH
+
+Today, i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@aniketmitra1997@kengying5@yemissi.kifouly@carlo12david to follow along.
 
 #udacityfacebookscholar
 #60daysofudacity
@@ -65,6 +79,8 @@
 * ✅ Scored 90% in the quiz on the above mentioned paper organised by Papers Discussion Club
 * 🔗 https://github.com/papersdclub/Differentially_private_federated_learning
 
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -75,6 +91,8 @@
 * ➡️ I learnt and read about PATE analysis , done pate analysis on randomly generated datasets and now going on to implementing on MNIST dataset.
 * ✅ Answered several questions on #l4_loc_glob_diff_priv  ,  #l5_diff_privacy_dl and #beginners .
 * ✅ Watched guest videos in #l5_diff_privacy_dl
+
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
 
 #udacityfacebookscholar
 #60daysofudacity
@@ -89,6 +107,9 @@ I learnt that if we have unlabelled dataset then to annotate them with labels we
 * 🔗 https://docs.google.com/document/d/1TFoA-wRg-7exiBvqiFfjV52OFkmRdc9_q1Oq88If0qM/edit?usp=sharing
 
 Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learning.
+
+Today, I would like to encourage @aniketmitra1997@swapnil6195 to follow along.
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -98,6 +119,9 @@ Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learnin
 * ✔️ Participated in Kahoot Quiz 
 * 🔗 https://docs.google.com/spreadsheets/d/1NFwH2rUfznDe3NCdzaLBgN6xxHRMJnMvkzryCVobqIA/edit
 * ✔️ Started #l5_diff_privacy_dl 
+
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
+
 #udacityfacebookscholar 
 #60daysofudacity
 
@@ -110,6 +134,8 @@ Moving onto finishing #l5_diff_privacy_dl  differential privacy for deep learnin
 * 🔗 https://fatqs-private-and-secure-ai.herokuapp.com/src/lesson.php?id=1V3Ny7jzXgQ5fDHohy7CzomvIyWJ8WUaTm-iJRRjDa3w&title=%3Cb%3ELesson%202:%3C/b%3E%20Introducing%20Differential%20Privacy
 
 Moving onto #l5_diff_privacy_dl .
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
+
 #udacityfacebookscholar
 #60daysofudacity
 
@@ -123,19 +149,21 @@ Moving onto #l5_diff_privacy_dl .
 I learnt that the idea of differential privacy is to simply block or filter out the results which are unique for a individual in a sensitive dataset and allow and focus more onto learn about the general characteristics of the individuals which is visible across most of the datapoints in the dataset.
 
 Moving onto Project for global differential privacy.
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
 
 #udacityfacebookscholar
-
+#60daysofudacity
 
 ## DAY 1 [27/6/19]: Completed :
 * ✅ notebooks of differential privacy , sensitivity and differential attack
-
 * 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
-
 * 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
 
 Moving on lesson of local and global differential privacy #l4_loc_glob_diff_priv
 
+Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@swapnil6195@workwithpurpose@aniketmitra1997 to follow along this path.
+
 #udacityfacebookscholar
+#60daysofudacity
 
 ![#60DAYSOFUDACITY](60daysofudacity.jpg)
