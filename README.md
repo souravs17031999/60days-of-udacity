@@ -232,17 +232,17 @@ I would like to encourage @Varez.W @Archit @Sky @Aniket Mitra @Carlo David @Shas
 
 ## DAY 14 [10/7/19] Completed :
 * ✅ Working on to completing the final project of Federated Learning #l6_federated_learning
-* ➡️ https://colab.research.google.com/drive/1NOwbD8UQ8nerVAKPygJ5-OpK62CsSujr
+* 🔗 https://colab.research.google.com/drive/1NOwbD8UQ8nerVAKPygJ5-OpK62CsSujr
 * ✅ Solved Numpy problems  , initiative on #general  by @Aisha Javed
-* ➡️https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562726969463500
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562726969463500
 * ✅ Started solving Maths set 2 quiz #math_help  by @Swapnil Gaikwad
-* ➡️https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
+* 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
 * ✅ Read awesome medium article on a new perspective on underfitting and overfitting in neural networks
-* ➡️ https://towardsdatascience.com/what-borges-can-tech-us-about-overfitting-and-underfitting-in-deep-learning-models-7b79ac077f6d
+* 🔗 https://towardsdatascience.com/what-borges-can-tech-us-about-overfitting-and-underfitting-in-deep-learning-models-7b79ac077f6d
 * ✅ Discussed  with my teammates for my first kaggle project
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
+* 📷 [pics/d14p1.jpg](pics/d14p1.JPG)
+* 📷 [pics/d14p2.jpg](pics/d14p2.JPG)
+* 📷 [pics/d14p3.jpg](pics/d14p3.JPG)
 
 Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Sheinman @Yemi @Labiba @Archit @Arka Anna Scott Sankalp Dayal@George Christopoulos @Aniket Mitra @Carlo David @Ritul @nabhanpv Agata Gruza
 
