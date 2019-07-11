@@ -248,3 +248,24 @@ Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Shein
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 15: Completed :
+* ✅ Completed Federated Learning Project
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_federated_learning.ipynb
+* ✅ Started #l7_sec_federtd_learn
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
+* ✅ Solved Maths problems Set - 2 quiz #math_help
+* 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
+* ✅ Achieved 500+ views and 120+ claps On Medium
+* 🔗 check out : https://medium.com/@sauravkumarsct
+* ✅ Attended virtual meetup of #sg_caffeine_coders and discussed agendas and plans for the projects.
+Thanks to all those who attended and huge shoutout to Khush Patel Nishant Bharat Labiba Kanij Kapil Chandorikar @Aditya kumar @Droid Sourav Das @Shahana Aarthi Alagammai@Oudarjya Sen Sarma Anne Bonner
+* 📷 [pics/d15p1.jpg](pics/d15p1.JPG)
+* 📷 [pics/d15p2.jpg](pics/d15p2.JPG)
+* 📷 [pics/d15p3.jpg](pics/d15p3.JPG)
+* 📷 [pics/d15p4.jpg](pics/d15p4.JPG)
+
+I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankalp Dayal Labiba Kanij @Sky @Carlo David @Manisha Elie Varez Shashi Gharti Mohit Tiwari Anna Scott Mike Yo @Ritul @Yemi Agata Gruza Aisha Javed@Alejandro Aristizábal@nabhanpv Alejandro Galindo Medina Shashank Jain
+
+#udacityfacebookscholar
+#60daysofudacity
