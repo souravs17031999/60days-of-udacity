@@ -249,7 +249,7 @@ Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Shein
 #udacityfacebookscholar
 #60daysofudacity
 
-## DAY 15: Completed :
+## DAY 15 [10/7/19] Completed :
 * ✅ Completed Federated Learning Project
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_federated_learning.ipynb
 * ✅ Started #l7_sec_federtd_learn
