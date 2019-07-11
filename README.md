@@ -232,19 +232,40 @@ I would like to encourage @Varez.W @Archit @Sky @Aniket Mitra @Carlo David @Shas
 
 ## DAY 14 [10/7/19] Completed :
 * ✅ Working on to completing the final project of Federated Learning #l6_federated_learning
-* ➡️ https://colab.research.google.com/drive/1NOwbD8UQ8nerVAKPygJ5-OpK62CsSujr
+* 🔗 https://colab.research.google.com/drive/1NOwbD8UQ8nerVAKPygJ5-OpK62CsSujr
 * ✅ Solved Numpy problems  , initiative on #general  by @Aisha Javed
-* ➡️https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562726969463500
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1562726969463500
 * ✅ Started solving Maths set 2 quiz #math_help  by @Swapnil Gaikwad
-* ➡️https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
+* 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
 * ✅ Read awesome medium article on a new perspective on underfitting and overfitting in neural networks
-* ➡️ https://towardsdatascience.com/what-borges-can-tech-us-about-overfitting-and-underfitting-in-deep-learning-models-7b79ac077f6d
+* 🔗 https://towardsdatascience.com/what-borges-can-tech-us-about-overfitting-and-underfitting-in-deep-learning-models-7b79ac077f6d
 * ✅ Discussed  with my teammates for my first kaggle project
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
-* 📷 [pics/d13p1.jpg](pics/d13p1.JPG)
+* 📷 [pics/d14p1.jpg](pics/d14p1.JPG)
+* 📷 [pics/d14p2.jpg](pics/d14p2.JPG)
+* 📷 [pics/d14p3.jpg](pics/d14p3.JPG)
 
 Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Sheinman @Yemi @Labiba @Archit @Arka Anna Scott Sankalp Dayal@George Christopoulos @Aniket Mitra @Carlo David @Ritul @nabhanpv Agata Gruza
+
+#udacityfacebookscholar
+#60daysofudacity
+
+## DAY 15 [11/7/19] Completed :
+* ✅ Completed Federated Learning Project
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_federated_learning.ipynb
+* ✅ Started #l7_sec_federtd_learn
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
+* ✅ Solved Maths problems Set - 2 quiz #math_help
+* 🔗 https://secureprivataischolar.slack.com/archives/CKRP153JS/p1562658674409500
+* ✅ Achieved 500+ views and 120+ claps On Medium
+* 🔗 check out : https://medium.com/@sauravkumarsct
+* ✅ Attended virtual meetup of #sg_caffeine_coders and discussed agendas and plans for the projects.
+Thanks to all those who attended and huge shoutout to Khush Patel Nishant Bharat Labiba Kanij Kapil Chandorikar @Aditya kumar @Droid Sourav Das @Shahana Aarthi Alagammai@Oudarjya Sen Sarma Anne Bonner
+* 📷 [pics/d15p1.jpg](pics/d15p1.JPG)
+* 📷 [pics/d15p2.jpg](pics/d15p2.JPG)
+* 📷 [pics/d15p3.jpg](pics/d15p3.JPG)
+* 📷 [pics/d15p4.jpg](pics/d15p4.JPG)
+
+I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankalp Dayal Labiba Kanij @Sky @Carlo David @Manisha Elie Varez Shashi Gharti Mohit Tiwari Anna Scott Mike Yo @Ritul @Yemi Agata Gruza Aisha Javed@Alejandro Aristizábal@nabhanpv Alejandro Galindo Medina Shashank Jain
 
 #udacityfacebookscholar
 #60daysofudacity
