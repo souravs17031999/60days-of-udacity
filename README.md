@@ -263,7 +263,7 @@ Thanks to all those who attended and huge shoutout to Khush Patel Nishant Bharat
 * 📷 [pics/d15p1.jpg](pics/d15p1.JPG)
 * 📷 [pics/d15p2.jpg](pics/d15p2.JPG)
 * 📷 [pics/d15p3.jpg](pics/d15p3.JPG)
-* 📷 [pics/d15p4.jpg](pics/d15p4.JPG)
+* 📷 [pics/d15p4.jpg](pics/d15p4.png)
 
 I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankalp Dayal Labiba Kanij @Sky @Carlo David @Manisha Elie Varez Shashi Gharti Mohit Tiwari Anna Scott Mike Yo @Ritul @Yemi Agata Gruza Aisha Javed@Alejandro Aristizábal@nabhanpv Alejandro Galindo Medina Shashank Jain
 
