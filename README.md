@@ -269,3 +269,22 @@ I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankal
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 16 [12/7/19] Completed :
+* ✅ Completed Project on Hot dog or not Hot dog kaggle problem with 90% accuracy (hoping to do more tomorrow) 🙂
+* 🔗 https://github.com/souravs17031999/kaggle-problems/blob/master/hot_dog_or_not_hotdog.ipynb
+* ✅ Completed 8.1 - 8.3 in #l7_sec_federtd_learn
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
+* ✅ Watched google I/O '19 , federated learning videos
+* 🔗 https://www.youtube.com/watch?v=89BGjQYA0uE
+* ✅ Learning mathematical intuition through 3blue1brown Maths series on linear algebra
+* 🔗 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+* 📷 [pics/d16p1.jpg](pics/d16p1.JPG)
+* 📷 [pics/d16p2.jpg](pics/d16p2.JPG)
+* 📷 [pics/d16p3.jpg](pics/d16p3.JPG)
+* 📷 [pics/d16p4.jpg](pics/d16p4.JPG)
+* 📷 [pics/d16p5.jpg](pics/d16p5.JPG)
+Today , i encourage @Arka Archit Garg @George Christopoulos Elie Varez Manisha Jhunjhunwala Shashi Gharti @Aniket Mitra @Michael Sheinman Anna Scott @Ana Anne Bonner Carlo David @Ritul Labiba Kanij @Sabrina Sumanyu RoshaSankalp Dayal @Alejandro Aristizábal @Alejandro Galindo Nabhan Abdulla Aisha Javed Shashank Jain
+
+#udacityfacebookscholar
+#60daysofudacity
