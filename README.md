@@ -288,3 +288,20 @@ Today , i encourage @Arka Archit Garg @George Christopoulos Elie Varez Manisha J
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 17 [13/7/19] Completed :
+* ✅ GAN Paper read and attemped quiz #reading_paper_discuss papers_discussion_club  , scored 13/15 (86.7 %)
+* 🔗 https://papersdclub.github.io/
+* 🔗 https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf
+* ✅ Working on Virtual Hackathon project #sg_hackathon-orgnizrs ( can't post the link due to privacy concerns, photos will suffice)
+* ✅ Working on coursera course week -2 Maths for machine learning - linear algebra
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/lecture/145u7/modulus-inner-product
+* ✅ participated in kahoot quiz online based on #l4_loc_glob_diff_priv but could not complete due to network issues
+* 📷 [pics/d17p1.jpg](pics/d17p1.JPG)
+* 📷 [pics/d17p2.jpg](pics/d17p2.JPG)
+* 📷 [pics/d17p3.jpg](pics/d17p3.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez   
+
+#udacityfacebookscholar
+#60daysofudacity
