@@ -305,3 +305,19 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 18 [14/7/19] Completed :
+* ✅ Working on hackathon #sg_hackathon-orgnizrs  almost completed !
+* 🔗 https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+* ✅ attempted quiz - 2 #reading_paper_discuss SPAIC reading community
+* ✅ participated in kahoot quiz
+* ✅ completing the week - 2 of maths for machine learning - linear algebra
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/week/2
+* 📷 [pics/d18p1.jpg](pics/d18p1.JPG)
+* 📷 [pics/d18p2.jpg](pics/d18p2.JPG)
+* 📷 [pics/d18p3.jpg](pics/d18p3.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez
+
+#udacityfacebookscholar
+#60daysofudacity
