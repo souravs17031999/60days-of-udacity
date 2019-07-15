@@ -321,3 +321,22 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 19 [15/7/19] Completed :
+* ✅ Lessons on secured federated learning 8.3 - 8.6 #l7_sec_federtd_learn
+* 🔗 https://github.com/…/Section%203%20-%20Securing%20Federated…
+* ✅ Completed Hackathon #sg_hackathon-orgnizrs on Classifying 102 flower species ( will post the kernel link after the deadline !)
+* 🔗 https://www.kaggle.com/…/hackathon-blossom-flower-classific…
+* ✅ Answered several questions on #ama_sessions
+* ✅ Watched and participated in webinar by Robert Wagner , asked questions and got answers !
+* 🔗 https://www.youtube.com/watch?v=9D_jxOMZmRI
+* 📷 [pics/d19p1.jpg](pics/d19p1.JPG)
+* 📷 [pics/d19p2.jpg](pics/d19p2.JPG)
+* 📷 [pics/d19p3.jpg](pics/d19p3.JPG)
+* 📷 [pics/d19p4.jpg](pics/d19p4.JPG)
+* 📷 [pics/d19p5.jpg](pics/d19p5.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez @Ivy
+
+#udacityfacebookscholar
+#60daysofudacity
