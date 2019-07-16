@@ -340,3 +340,24 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 20: Completed :
+* ✅Project - XIII : Completed all the mini projects and all lessons #l7_sec_federtd_learn . Working on Final project.
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/secured_federated_learning.ipynb
+* ✅ Submitted kernel for Virtual Hackathon - Hackathon Blossom (Flower Classification) . Learnt a lot , thanks @Ivy @Munira Omar @Amina Assouane.
+* 🔗 Dataset : https://www.kaggle.com/spaics/hackathon-blossom-flower-classification
+* 🔗 Kernel (now public) : https://www.kaggle.com/souravs17031999/flower-classification-hackathon
+* ✅ Reading paper for first activity #sg_caffeine_coders - "Deep Learning with Differential Privacy"
+* 🔗 https://arxiv.org/pdf/1607.00133.pdf
+* ✅ Read cryptographic techniques with machine learning blog
+* 🔗 https://mortendahl.github.io/2017/06/04/secret-sharing-part1/
+* ✅ Discussed and explored ideas with my group Sumanyu Rosha Labiba Kanij @Sabrina on Emotion classification using NLP #sg_caffeine_coders 
+* 📷 [pics/d20p1.jpg](pics/d20p1.JPG)
+* 📷 [pics/d20p2.jpg](pics/d20p2.JPG)
+* 📷 [pics/d20p3.jpg](pics/d20p3.JPG)
+* 📷 [pics/d20p4.jpg](pics/d20p4.JPG)
+* 📷 [pics/d20p5.jpg](pics/d20p5.JPG)
+* 📷 [pics/d20p6.jpg](pics/d20p6.JPG)
+Today , i encourage @Arka Archit Garg @George Christopoulos Elie Varez Manisha Jhunjhunwala Shashi Gharti@Aniket Mitra Mike Yo Anna Scott @Ana Anne Bonner@Carlo David @Ritul Labiba Kanij @Sabrina Sumanyu Rosha Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo Nabhan Abdulla Aisha Javed Shashank Jain Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez Ivoline Ngong  Agata Gruza
+#udacityfacebookscholar
+#60daysofudacity
