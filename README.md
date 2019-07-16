@@ -341,7 +341,7 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 #udacityfacebookscholar
 #60daysofudacity
 
-## DAY 20: Completed :
+## DAY 20 [16/7/19] Completed :
 * ✅Project - XIII : Completed all the mini projects and all lessons #l7_sec_federtd_learn . Working on Final project.
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/secured_federated_learning.ipynb
 * ✅ Submitted kernel for Virtual Hackathon - Hackathon Blossom (Flower Classification) . Learnt a lot , thanks @Ivy @Munira Omar @Amina Assouane.
