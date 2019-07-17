@@ -361,3 +361,24 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 Today , i encourage @Arka Archit Garg @George Christopoulos Elie Varez Manisha Jhunjhunwala Shashi Gharti@Aniket Mitra Mike Yo Anna Scott @Ana Anne Bonner@Carlo David @Ritul Labiba Kanij @Sabrina Sumanyu Rosha Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo Nabhan Abdulla Aisha Javed Shashank Jain Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez Ivoline Ngong  Agata Gruza
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 21 [17/7/19] Completed :
+* ✅ Started #l8_encrypted_dl completed 8.1 , 8.2
+* ✅ Project -XIV : Implementing secret sharing techniques to arithmetic operations like addition, subtraction , scalar multiplication * 🔗 https://github.com/…/encrypted_deep_learning_addition_subtr…
+* ✅ Reading ongoing on paper - _Differential privacy for deep learning_
+* 🔗 https://arxiv.org/pdf/1607.00133.pdf
+* ✅ working on dog breed classification kaggle project
+* 🔗 https://www.kaggle.com/c/dog-breed-identification/data
+* ✅ Read blog - https://medium.com/dr…/secret-sharing-explained-acf092660d97
+* ✅ Solved _Python Learning Initiative_ questions , initiative by @Aisha Javed @Shashank Jain
+* 🔗 https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156337…
+* 📷 [pics/d21p1.jpg](pics/d21p1.JPG)
+* 📷 [pics/d21p2.jpg](pics/d21p2.JPG)
+* 📷 [pics/d21p3.jpg](pics/d21p3.JPG)
+* 📷 [pics/d21p4.jpg](pics/d21p4.JPG)
+* 📷 [pics/d21p5.jpg](pics/d21p5.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez @Ivy @Agata [OR, USA]
+
+#udacityfacebookscholar
+#60daysofudacity
