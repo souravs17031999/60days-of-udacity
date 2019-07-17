@@ -364,7 +364,8 @@ Today , i encourage @Arka Archit Garg @George Christopoulos Elie Varez Manisha J
 
 ## DAY 21 [17/7/19] Completed :
 * ✅ Started #l8_encrypted_dl completed 8.1 , 8.2
-* ✅ Project -XIV : Implementing secret sharing techniques to arithmetic operations like addition, subtraction , scalar multiplication * 🔗 https://github.com/…/encrypted_deep_learning_addition_subtr…
+* ✅ Project -XIV : Implementing secret sharing techniques to arithmetic operations like addition, subtraction , scalar multiplication 
+* 🔗 https://github.com/…/encrypted_deep_learning_addition_subtr…
 * ✅ Reading ongoing on paper - _Differential privacy for deep learning_
 * 🔗 https://arxiv.org/pdf/1607.00133.pdf
 * ✅ working on dog breed classification kaggle project
