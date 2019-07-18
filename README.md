@@ -383,3 +383,22 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 22 [18/7/19] Completed :
+* ✅Completed 9.1, 9.2, 9.3 #l8_encrypted_dl
+* ✅ Project - XV : implementing encrypted computations using pysyft and encrypted database
+* 🔗 https://lnkd.in/fCTY-GS
+* ✅ Took part and solved questions in _Python Learning Initiative_ DAY 10, by @Aisha Javed @Shashank Jain
+* 🔗 https://lnkd.in/fvPKq2E
+* ✅ Answered Several Questions in #ama_sessions
+* 🔗 check the docs : http://bit.ly/spaic-ama
+* ✅ Working on dog breed classification project
+* 📷 [pics/d22p1.jpg](pics/d22p1.JPG)
+* 📷 [pics/d22p2.jpg](pics/d22p2.JPG)
+* 📷 [pics/d22p3.jpg](pics/d22p3.JPG)
+* 📷 [pics/d22p4.jpg](pics/d22p4.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Ana @Dharmendra Choudhary @Marce @Ursula Perez @Ivy @Agata [OR, USA]
+
+#udacityfacebookscholar
+#60daysofudacity
