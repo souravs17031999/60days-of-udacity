@@ -402,3 +402,25 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 23 [19/7/19] Completed :
+* ✅ :tada: Finally completed the Secure And Private AI Challenge course today  :celebrate:
+* ✅ Project - XVI: implementing encrypted deep learning using pysyft
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/encrypted_deep_learning_in_pysyft.ipynb
+* ✅ Still reading paper on _Deep learning With Differential Privacy_  (contains much maths)
+* 🔗 https://arxiv.org/pdf/1607.00133.pdf
+* ✅ Started Working on keystone Project
+* ✅ participated and solved question Day 13 #sg_pytorch_begin
+* 🔗 https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1563548071086100?thread_ts=1563539006.085900&cid=CL55WHVV2
+* ✅ Attended _Understanding the new AZ-103: Microsoft Azure Administrator_ webinar by Cognixia
+* 📷 [pics/d23p1.jpg](pics/d23p1.JPG)
+* 📷 [pics/d23p2.jpg](pics/d23p2.JPG)
+* 📷 [pics/d23p3.jpg](pics/d23p3.JPG)
+* 📷 [pics/d23p4.jpg](pics/d23p4.JPG)
+* 📷 [pics/d23p5.jpg](pics/d23p5.JPG)
+* 📷 [pics/d23p6.jpg](pics/d23p6.JPG)
+
+Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed @Shashank Jain @Munira Omar @Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy @Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit  
+
+#udacityfacebookscholar
+#60daysofudacity
