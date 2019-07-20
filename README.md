@@ -424,3 +424,23 @@ Today , i encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shash
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 24 [20/7/19] Completed :
+* ✅  Working on Virtual Hackathon #sg_hackathon-orgnizrs
+* 🔗  https://www.kaggle.com/c/virtual-hack
+* ✅ Completed Week -2 of Coursera course Maths for Machine Learning , group activity of #sg_dlstarguys
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/week/2
+* ✅ Discussed about datasets for Emotion recognition through NLP #sg_caffeine_coders
+* ✅ Got Second Place In GAN quiz  #reading_paper_discuss 🎉
+* 🔗 https://secureprivataischolar.slack.com/archives/CKREEFSNT/p1563595322007700
+Congrats to @Diego for winning the title ! and @Berenice for designing awesome logo for winners !🎉
+* 📷 [pics/d24p1.jpg](pics/d24p1.JPG)
+* 📷 [pics/d24p2.jpg](pics/d24p2.JPG)
+* 📷 [pics/d24p3.jpg](pics/d24p3.JPG)
+* 📷 [pics/d24p4.jpg](pics/d24p4.JPG)
+
+ https://secureprivataischolar.slack.com/archives/CKREEFSNT/p1563595322007700Today , I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David@Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit
+Keep going guys and give your best shot !
+
+#udacityfacebookscholar
+#60daysofudacity
