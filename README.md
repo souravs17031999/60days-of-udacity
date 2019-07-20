@@ -437,7 +437,7 @@ Congrats to @Diego for winning the title ! and @Berenice for designing awesome l
 * 📷 [pics/d24p1.jpg](pics/d24p1.JPG)
 * 📷 [pics/d24p2.jpg](pics/d24p2.JPG)
 * 📷 [pics/d24p3.jpg](pics/d24p3.JPG)
-* 📷 [pics/d24p4.jpg](pics/d24p4.JPG)
+* 📷 [pics/d24p4.png](pics/d24p4.png)
 
  https://secureprivataischolar.slack.com/archives/CKREEFSNT/p1563595322007700Today , I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David@Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit
 Keep going guys and give your best shot !
