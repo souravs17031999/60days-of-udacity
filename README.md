@@ -437,10 +437,31 @@ Congrats to @Diego for winning the title ! and @Berenice for designing awesome l
 * 📷 [pics/d24p1.jpg](pics/d24p1.JPG)
 * 📷 [pics/d24p2.jpg](pics/d24p2.JPG)
 * 📷 [pics/d24p3.jpg](pics/d24p3.JPG)
-* 📷 [pics/d24p4.jpg](pics/d24p4.JPG)
+* 📷 [pics/d24p4.png](pics/d24p4.png)
 
  https://secureprivataischolar.slack.com/archives/CKREEFSNT/p1563595322007700Today , I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David@Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit
 Keep going guys and give your best shot !
+
+#udacityfacebookscholar
+#60daysofudacity
+
+## DAY 25 [21/7/19] Completed :
+* ✅ Working on Virtual Hackathon #sg_hackathon-orgnizrs
+* 🔗 https://www.kaggle.com/c/virtual-hack
+* ✅ Written medium article :six: on "Data Augmentation" under Secure And Private AI publication
+* 🔗 https://medium.com/…/data-augmentation-increases-accuracy-o…
+* ✅ Participate in Kahoot Quiz on #l5_diff_privacy_dl
+* ✅ Started Week - 3 of coursera course maths for machine learning #sg_dlstarguys
+* 🔗 https://www.coursera.org/…/linear-algebra-machi…/home/week/3
+* ✅ Reading Chapter -3 summary from cynthia Dwork's book from notes by @Rishi S Rao
+* 🔗 https://github.com/…/master/Chapter%203%20-%20Part%20I.ipynb
+* 📷 [pics/d25p1.png](pics/d25p1.png)
+* 📷 [pics/d25p2.png](pics/d25p2.png)
+* 📷 [pics/d25p3.png](pics/d25p3.png)
+* 📷 [pics/d25p4.png](pics/d25p4.png)
+
+Today , I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar @Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez@Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit
+Keep going guys and give your best shot ! 🚀
 
 #udacityfacebookscholar
 #60daysofudacity
