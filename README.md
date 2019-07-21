@@ -455,9 +455,9 @@ Keep going guys and give your best shot !
 * 🔗 https://www.coursera.org/…/linear-algebra-machi…/home/week/3
 * ✅ Reading Chapter -3 summary from cynthia Dwork's book from notes by @Rishi S Rao
 * 🔗 https://github.com/…/master/Chapter%203%20-%20Part%20I.ipynb
-* 📷 [pics/d25p1.png](pics/d25p1.png)
-* 📷 [pics/d25p2.png](pics/d25p2.png)
-* 📷 [pics/d25p3.png](pics/d25p3.png)
+* 📷 [pics/d25p1.JPG](pics/d25p1.JPG)
+* 📷 [pics/d25p2.JPG](pics/d25p2.JPG)
+* 📷 [pics/d25p3.JPG](pics/d25p3.JPG)
 * 📷 [pics/d25p4.png](pics/d25p4.png)
 
 Today , I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar @Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez@Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit
