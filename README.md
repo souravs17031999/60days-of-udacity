@@ -465,3 +465,28 @@ Keep going guys and give your best shot ! 🚀
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 26 [22/7/19] Completed :
+* ✅ Completed working on Virtual Hackathon #sg_hackathon-orgnizrs - Stanford Cars dataset image classification. Thanks for organizing @Munira Omar @Ivy @Mohona @Mushrifah Hasan @Amina Assouane
+Dataset :
+* 🔗 https://www.kaggle.com/c/virtual-hack
+* 🔗 https://www.kaggle.com/souravs1…/newtech-covenant-auto-matic
+* ✅ Completed cynthia Dwork chapter - 3 Basic Techniques and Composition Theorems
+* 🔗 https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf
+* ✅ Completed SPARC quiz -3 #reading_paper_discuss
+* ✅ Attended Virtual meetup with awesome cool guys #sg_dlstarguys , talked and discussed about various initiatives. Thanks for hosting @Labiba @Mohona.
+@Michael Sheinman @Govind @Muhammad Wajahat @Aarthi Alagammai @Dammy @Ashish Shrivastava @Sushil Ghimire
+* ✅ Writing medium article on paper Deep learning with differential privacy for group activity #sg_caffeine_coders
+* ✅ Answered several questions in today's #ama_sessionsToday , 
+* 📷 [pics/d26p1.jpg](pics/d26p1.JPG)
+* 📷 [pics/d26p2.jpg](pics/d26p2.JPG)
+* 📷 [pics/d26p3.jpg](pics/d26p3.JPG)
+* 📷 [pics/d26p4.jpg](pics/d26p4.JPG)
+* 📷 [pics/d26p5.jpg](pics/d26p5.JPG)
+* 📷 [pics/d26p6.png](pics/d26p6.png)
+
+
+I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David@Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar @Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai @Shanmugapriya @Govind @Frida@LauraT @Yemi
+
+#udacityfacebookscholar
+#60daysofudacity
