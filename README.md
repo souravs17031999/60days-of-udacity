@@ -490,3 +490,23 @@ I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 27 [23/7/19] Completed :
+* ✅ Collected dataset for Smog Detection project for #sg_planetearth
+* 🔗 https://github.com/souravs17031999/SmogDetection
+* ✅ Working on Week -3 coursera course : Maths specialization for machine learning - linear algebra #sg_dlstarguys
+* 🔗 https://www.coursera.org/…/linear-algebra-mach…/home/welcome
+* ✅ Started reading paper - Image Super-Resolution Using Deep Convolutional Networks papers discussion club#reading_paper_discuss
+* 🔗 https://arxiv.org/pdf/1501.00092.pdf
+* ✅ Writing medium article on complete summary of Deep learning with differential privacy research paper activity for #sg_caffeine_coders ( will post the link after submission)
+* ✅ Discussed about projects and about scheduling first meetup discussion for NLP project emotion recognition #sg_caffeine_coders with awesome friends @Sabrina @Sumanyu Rosha @LabibaToday 
+* 📷 [pics/d27p1.jpg](pics/d27p1.JPG)
+* 📷 [pics/d27p2.jpg](pics/d27p2.JPG)
+* 📷 [pics/d27p3.jpg](pics/d27p3.JPG)
+* 📷 [pics/d27p4.jpg](pics/d27p4.JPG)
+
+I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti 
+@Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne @Carlo David @Ritul @Labiba @Sabrina @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @Aisha Javed@Shashank Jain@Munira Omar @Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai @Shanmugapriya @Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat @Shubhangi Jena @Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey @Dammy @Henrique Mello @Calincan Mircea Ioan@Diganta @Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder@Karan Kishinani @Dimple Bhuta @Aarthi Alagammai @Shanmugapriya @Sushil Ghimire
+
+#udacityfacebookscholar
+#60daysofudacity
