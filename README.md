@@ -510,3 +510,27 @@ I encourage @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 28 [24/7/19] Completed :
+* ✅ Collected today more dataset for Smog Detection project for #sg_planetearth
+* 🔗 https://github.com/souravs17031999/SmogDetection
+* ✅ Written my :seven:th medium article , this time for #sg_caffeine_coders activity on research paper : " Deep learning with differential privacy "
+* 🔗 https://medium.com/secure-and-private-ai-writing-challenge/summary-of-deep-learning-with-differential-privacy-d7ffa2033e8f
+* ✅ Won MatheMagic challenge - I for medium article on " Playing with Backpropogation algorithm intuition "
+* 🔗 https://medium.com/secure-and-private-ai-writing-challenge/playing-with-backpropagation-algorithm-intuition-10c42578a8e8
+* ✅ Still Reading research paper : " Image Super-Resolution Using Deep Convolutional Networks "
+* 🔗 https://arxiv.org/pdf/1501.00092.pdf
+* ✅ Working on week - 3 coursera maths for machine learning  #sg_dlstarguys
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* 📷 [pics/d28p1.jpg](pics/d28p1.JPG)
+* 📷 [pics/d28p2.jpg](pics/d28p2.JPG)
+* 📷 [pics/d28p3.jpg](pics/d28p3.JPG)
+* 📷 [pics/d28p4.jpg](pics/d28p4.JPG)
+* 📷 [pics/d28p5.jpg](pics/d28p5.JPG)
+* 📷 [pics/d28p6.jpg](pics/d28p6.JPG)
+
+Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana @anne@Carlo David @Ritul @Labiba @Sabrina @Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv @Aisha Javed@Shashank Jain @Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce @Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai @Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat @Shubhangi Jena @Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello @Calincan Mircea Ioan@Diganta @Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai @Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal
+" When you feel like quitting , remember it's most of the time you are very close to your goal "
+
+#udacityfacebookscholar
+#60daysofudacity
