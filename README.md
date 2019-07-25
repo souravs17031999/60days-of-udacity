@@ -534,3 +534,28 @@ Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 29 [25/7/19] Completed :
+* ✅ Improved my hot dog - not hot dog classifier model from 88 % to 92.8 % testing accuracy and 94.7 % validation accuracy. Thanks @Arka for suggestions.
+* 🔗 https://github.com/souravs17031999/kaggle-problems-60daysofudacity/blob/master/hot_dog_or_not_dog.ipynb
+* ✅ Working on #sg_project-t-shirt project
+* 🔗 https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+* ✅ Read this awesome article on visualizing style transfer :
+* 🔗 https://towardsdatascience.com/neural-style-transfer-and-visualization-of-convolutional-networks-7362f6cf4b9b
+* ✅ Still reading paper - " Image Super-Resolution Using Deep Convolutional Networks "
+* 🔗 https://arxiv.org/pdf/1501.00092.pdf
+* ✅ Answered several questions on #ama_sessions
+* ✅ Participated in initiative #tidbits by @Mansi Goyal
+* ✅ Discussing with awesome group of people about cool competitions on #sg_dlstarguys  and #math_help !
+* 🔗 Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+* 🔗 Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
+* 📷 [pics/d29p1.jpg](pics/d29p1.JPG)
+* 📷 [pics/d29p2.jpg](pics/d29p2.JPG)
+* 📷 [pics/d29p3.jpg](pics/d29p3.JPG)
+* 📷 [pics/d29p4.jpg](pics/d29p4.JPG)
+* 📷 [pics/d29p5.jpg](pics/d29p5.JPG)
+
+Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana@anne@Carlo David @Ritul @Labiba@Sabrina @Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat @Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh@Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta @Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai @Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony@Akshay Pal @Aleksandra Deis
+
+#udacityfacebookscholar
+#60daysofudacity
