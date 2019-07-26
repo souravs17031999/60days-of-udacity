@@ -559,3 +559,32 @@ Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 30 [26/7/19] Completed :
+* ✅ Participated and solved questions for Udaquest in #general by @Aisha Javed and @Shashank Jain
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564084786371200
+* ✅ Solved questions on #sg_pytorch_begin by @Mariia Denysenko
+* 🔗 https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1564091070042600
+* ✅ Explored and worked for the first time with Inception V3 model (started with small dataset - hot dog or not hot dog)
+* 🔗 https://github.com/souravs17031999/kaggle-problems-60daysofudacity/blob/master/hot_dog_not_hotdog_inceptionv3.ipynb
+* ✅ Understanding pytorch neural style transfer tutorials
+* 🔗 https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
+* ✅ Won article writing competition on #sg_caffeine_coders  on writing a summary on the paper - " Deep learning with differential privacy "
+* 🔗 check out the article here : https://medium.com/secure-and-private-ai-writing-challenge/summary-of-deep-learning-with-differential-privacy-d7ffa2033e8f
+* 🔗 paper and citations : https://arxiv.org/pdf/1607.00133.pdf
+* ✅ Attending 3 day ML bootcamp
+* 🔗 https://www.facebook.com/groups/LearnML2019/
+
+* 🔗 Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+* 🔗 Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
+* 📷 [pics/d30p1.jpg](pics/d30p1.JPG)
+* 📷 [pics/d30p2.jpg](pics/d30p2.JPG)
+* 📷 [pics/d30p3.jpg](pics/d30p3.JPG)
+* 📷 [pics/d30p4.jpg](pics/d30p4.JPG)
+* 📷 [pics/d30p5.jpg](pics/d30p5.JPG)
+
+
+Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David @Ritul @Labiba@Sabrina @Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo @nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary @Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat @Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta @Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai @Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis
+
+#udacityfacebookscholar
+#60daysofudacity
