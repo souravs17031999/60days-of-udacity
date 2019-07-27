@@ -602,7 +602,7 @@ Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W
 * ➡️ Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
 * ➡️ Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
 * 📷 [pics/d31p1.jpg](pics/d31p1.JPG)
-* 📷 [pics/d31p2.jpg](pics/d31p2.JPG)
+* 📷 [pics/d31p2.png](pics/d31p2.PNG)
 * 📷 [pics/d31p3.jpg](pics/d31p3.JPG)
 * 📷 [pics/d31p4.jpg](pics/d31p4.JPG)
 * 📷 [pics/d31p5.jpg](pics/d31p5.JPG)
