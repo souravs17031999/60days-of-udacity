@@ -599,10 +599,10 @@ Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W
 * ✅ Participated in Kahoot quiz #l6_federated_learning  and came Second .
 * ✅ Discussing for soon to come Maths competitions with awesome scholars
 @Aniket Mitra, @Calincan Mircea Ioan, @Archit, @Agata [OR, USA], @Labiba, @Mohona, @Diganta
-* ➡️ Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
-* ➡️ Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
+* 🔗 Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+* 🔗 Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
 * 📷 [pics/d31p1.jpg](pics/d31p1.JPG)
-* 📷 [pics/d31p2.png](pics/d31p2.PNG)
+* 📷 [pics/d31p2.png](pics/d31p2.png)
 * 📷 [pics/d31p3.jpg](pics/d31p3.JPG)
 * 📷 [pics/d31p4.jpg](pics/d31p4.JPG)
 * 📷 [pics/d31p5.jpg](pics/d31p5.JPG)
@@ -611,5 +611,36 @@ Encouraging all my awesome friends  @Arka @Archit @George Christopoulos @Varez.W
 
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang
 "Machine learning is an art , be sure to fill it with your colors and see the magic"
+#udacityfacebookscholar
+#60daysofudacity
+
+## DAY 32 [28/7/19] Completed :
+* ✅ Working on Implementing NLP for #sg_hackathon-orgnizrs
+* 🔗 https://www.kaggle.com/c/virtual-hackathon/data
+* ✅ Completed neural style transfer project in Pytorch and made several target images (check the photos).
+* 🔗 https://github.com/…/mast…/Neural_style_transfer_vgg19.ipynb
+* ✅ Read the paper : " Image Style Transfer Using Convolutional Neural Networks "
+* 🔗 https://www.cv-foundation.org/…/Gatys_Image_Style_Transfer_…
+* ✅ Solved questions in Udaquest in #general , initiative by @Aisha Javed @Shashank Jain
+* 🔗 https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156425…
+* ✅ Solved questions in #sg_pytorch_begin .
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156426…
+* ✅ Attended ML Bootcamp - DAY 2
+* ✅ Participated in Kahoot quiz #l6_federated_learning .
+* ✅ Discussing for soon to come Maths competitions with awesome scholars , get excited for very big and real learning in Maths for ML /DL.
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+
+@Aniket Mitra, @Calincan Mircea Ioan, @Archit, @Agata [OR, USA], @Labiba, @Mohona, @Diganta
+🔗Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+🔗Complete notebooks for the challenge course : https://github.com/souravs17031999/private-ai
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott @Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang
+
 #udacityfacebookscholar
 #60daysofudacity
