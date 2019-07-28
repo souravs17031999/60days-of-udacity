@@ -628,14 +628,14 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 * ✅ Attended ML Bootcamp - DAY 2
 * ✅ Participated in Kahoot quiz #l6_federated_learning .
 * ✅ Discussing for soon to come Maths competitions with awesome scholars , get excited for very big and real learning in Maths for ML /DL.
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
-* 📷 [pics/d31p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d32p1.jpg](pics/d31p1.JPG)
+* 📷 [pics/d32p2.jpg](pics/d31p2.JPG)
+* 📷 [pics/d32p3.jpg](pics/d31p3.JPG)
+* 📷 [pics/d32p4.jpg](pics/d31p4.JPG)
+* 📷 [pics/d32p5.jpg](pics/d31p5.JPG)
+* 📷 [pics/d32p6.jpg](pics/d31p6.JPG)
+* 📷 [pics/d32p7.jpg](pics/d31p7.JPG)
+* 📷 [pics/d32p8.jpg](pics/d31p8.JPG)
 
 @Aniket Mitra, @Calincan Mircea Ioan, @Archit, @Agata [OR, USA], @Labiba, @Mohona, @Diganta
 🔗Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
