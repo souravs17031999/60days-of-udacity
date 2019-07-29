@@ -644,3 +644,32 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 33 [29/7/19] Completed :
+* ✅ Worked more on style transfer and created more target images
+* 🔗 https://github.com/souravs17031999/kaggle-problems-60daysofudacity/blob/master/Neural_style_transfer_vgg19.ipynb
+* ✅ Attended ML bootcamp - day 3
+* 🔗 https://www.youtube.com/watch?v=iabyBpGXS0I&fbclid=IwAR3-VcnqowC2RMnUhZeCIaLHcawQ-xHv0scP_-GBJsI65zeDyCmZPvCWyIY
+* ✅ Hosted meetup for #sg_dlstarguys and had a awesome talk on variety of topics .
+@Mohona Mircea Calincan @Oudarjya Sen Sarma @Aarthi Alagammai Archit Garg @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim
+* ✅ Attended meetup for #reading_paper_discuss  , papers discussion club on GAN's.
+@Dharmendra Choudhary @Diego @Abhishek Tandon @shahnoza @Antonio
+* ✅ Solved questions in #sg_pytorch_begin .
+* 🔗  https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1564346518066000
+* ✅  Launched " MATHS BLOGGING COMPETITION " with awesome maths enthusiast :
+@Aniket Mitra, @Calincan Mircea Ioan, @Archit, @Agata [OR, USA], @Labiba, @Mohona, @Diganta
+* ✅ Read article -https://bit.ly/32YvbRZ shared by @Munira Omar
+* 🔗 Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+* 🔗Complete notebooks for the challenge course  : https://github.com/souravs17031999/private-ai
+* 📷 [pics/d33p1.jpg](pics/d33p1.JPG)
+* 📷 [pics/d33p2.jpg](pics/d33p2.JPG)
+* 📷 [pics/d33p3.jpg](pics/d33p3.JPG)
+* 📷 [pics/d33p4.jpg](pics/d33p4.JPG)
+* 📷 [pics/d33p5.jpg](pics/d33p5.JPG)
+* 📷 [pics/d33p6.jpg](pics/d33p6.JPG)
+
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang
+
+#udacityfacebookscholar
+#60daysofudacity
