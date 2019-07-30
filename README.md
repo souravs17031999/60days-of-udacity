@@ -673,3 +673,35 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 34 [30/7/19] Completed :
+
+* ✅ Worked more on style transfer and created more for #sg_project-t-shirt
+* 🔗 https://github.com/…/mast…/Neural_style_transfer_vgg19.ipynb
+* ✅ Solved questions in #sg_pytorch_begin .
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156443…
+* ✅ Solved questions in #udaquest in #general by @Aisha Javed @Shashank Jain
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564464454169300
+* ✅ Earned Google GCP Essentials quest Badge by QwikLabs.
+* 🔗 https://google.qwiklabs.com/public_profiles/bc352e5d-d77e-4339-a911-cf29b31ca4da
+* ✅ Read articles shared here by @Sabrina on how AI can transform aviation industry
+* 🔗 https://www.forbes.com/sites/quora/2018/08/07/how-artificial-intelligence-will-impact-the-aviation-industry/#7095ad13574f
+* 🔗 https://emerj.com/ai-…/airlines-use-artificial-intelligence/
+* 🔗 https://www.mindtitan.com/…/artificial-intelligence-in-avi…/
+* ✅ Understanding modular arithmetic used in cryptographic techniques and also in encrypted deep learning
+* 🔗 https://www.math.upenn.edu/~mlazar/math170/notes06.pdf
+* 🔗 Track the complete progress here : https://github.com/souravs17031999/60days-of-udacity
+* 🔗: Complete notebooks for the challenge course : https://github.com/souravs17031999/private-ai
+* 📷 [pics/d34p1.jpg](pics/d34p1.JPG)
+* 📷 [pics/d34p2.jpg](pics/d34p2.JPG)
+* 📷 [pics/d34p3.jpg](pics/d34p3.JPG)
+* 📷 [pics/d34p4.jpg](pics/d34p4.JPG)
+* 📷 [pics/d34p5.jpg](pics/d34p5.JPG)
+* 📷 [pics/d34p6.jpg](pics/d34p6.JPG)
+
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang
+
+#udacityfacebookscholar
+
+#60daysofudacity
