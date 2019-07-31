@@ -703,5 +703,29 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Sumanyu Rosha @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang
 
 #udacityfacebookscholar
+#60daysofudacity
 
+## DAY 35 [31/7/19] Completed :
+* ✅Collected datasets for smog detection project #sg_planetearth
+* 🔗https://github.com/souravs17031999/SmogDetection
+* ✅ Solved questions in #sg_pytorch_begin .
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156452…
+* ✅ Continuing to read about understanding modular arithmetic used in cryptographic techniques and also in encrypted deep learning
+* 🔗 https://www.math.upenn.edu/~mlazar/math170/notes06.pdf
+* ✅ Watched this awesome video by python programmer shared in #resources by @Carlo David
+* 🔗 https://www.youtube.com/watch?v=k5iEc6TP_50
+* ✅ Started working on NLP tutorial pytorch(will post colab link tomorrow)
+* 🔗 https://pytorch.org/…/begin…/deep_learning_nlp_tutorial.html
+* ✅ Started on understanding more depth of Image module - Pillow shared by @Juan Carlos Kuri Pinto
+* 🔗 https://pillow.readthedocs.io/en/stable/reference/Image.html
+* ✅ Worked on launching a very big , new and brand website FATQs for all your technical questions (general or course related) with team of 18 members working day and night for this.
+* 🔗 https://fatqs-private-and-secure-ai.herokuapp.com/
+* 📷 [pics/d35p1.jpg](pics/d35p1.JPG)
+* 📷 [pics/d35p2.jpg](pics/d35p2.JPG)
+* 📷 [pics/d35p3.jpg](pics/d35p3.JPG)
+* 📷 [pics/d35p4.jpg](pics/d35p4.JPG)
+* 📷 [pics/d35p5.jpg](pics/d35p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh@Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder@Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis@Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava
+#udacityfacebookscholar
 #60daysofudacity
