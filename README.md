@@ -729,3 +729,28 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh@Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder@Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis@Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu @Khush @Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 36 [1/8/19] Completed :
+* ✅ Solved questions for #sg_pytorch_begin - 22
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156460…
+* ✅ Working on NLP tutorial pytorch
+* 🔗 https://pytorch.org/…/begin…/deep_learning_nlp_tutorial.html
+* ✅ Answered several questions in #ama_sessions
+* ✅ Discussed about emotion recognition project in #sg_caffeine_coders with my awesome friends @Sumanyu Rosha @Labiba @Sabrina
+* ✅ Working on FATQs to make it big and branded 👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏👏
+You guys deserve a huge round of applause - @Aileen Villanueva Lecuona, @Ayush Jain, @Calincan Mircea Ioan, @Dimple Bhuta, @Varez.W, @Eben O, @Ish, @Ivy, @Prabhu Kumar, @Labiba, @Manisha, @Diganta, @Shashi Gharti, @Shivam Raisharma, @Tolga, @Vysakh, @Yemi
+* 🔗 https://fatqs-private-and-secure-ai.herokuapp.com/
+* ✅ Read awesome articles on medium :
+* 🔗 https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
+* 🔗 https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d 
+* 📷 [pics/d36p1.jpg](pics/d36p1.JPG)
+* 📷 [pics/d36p2.jpg](pics/d36p2.JPG)
+* 📷 [pics/d36p3.jpg](pics/d36p3.JPG)
+* 📷 [pics/d36p4.jpg](pics/d36p4.JPG)
+* 📷 [pics/d36p5.jpg](pics/d36p5.JPG)
+* 📷 [pics/d36p6.jpg](pics/d36p6.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava @Kapil Chandorikar
+
+#udacityfacebookscholar
+#60daysofudacity
