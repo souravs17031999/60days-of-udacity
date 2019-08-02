@@ -754,3 +754,27 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 37 [2/8/19] Completed :
+* ✅ Collected more image datasets for smog classification project #sg_planetearth
+* 🔗  https://github.com/souravs17031999/SmogDetection
+* ✅  Solved question in #tidbits q4 by @Mansi Goyal
+* 🔗  https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564762580415400
+* ✅ Participating in AWS deep racer live orientation
+* 🔗 https://udacity.zoom.us/j/631851727?status=success
+* ✅ Discussed about emotion recognition project in #sg_caffeine_coders with my awesome friends @Sumanyu Rosha @Labiba @Sabrina
+* ✅ Started on week - 4 topic "Matrices changing basis" for maths for machine learning course
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* ✅ Enjoying easy and fun problems by @Sayali_Kutwal and @Sankalp Dayal
+* 🔗 Hop in #sg_dlstarguys to solve more of such problems.
+* ✅ Solving questions on CV in maths set quiz - 5 by @Swapnil Gaikwad 
+* 📷 [pics/d37p1.jpg](pics/d37p1.JPG)
+* 📷 [pics/d37p2.jpg](pics/d37p2.JPG)
+* 📷 [pics/d37p3.jpg](pics/d37p3.JPG)
+* 📷 [pics/d37p4.jpg](pics/d37p4.JPG)
+* 📷 [pics/d37p5.jpg](pics/d37p5.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava
+#udacityfacebookscholar
+#60daysofudacity
