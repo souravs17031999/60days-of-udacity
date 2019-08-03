@@ -778,3 +778,28 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 38 [3/8/19] Completed :
+* ✅ Solved questions for #sg_pytorch_begin  - 23 by @Mariia Denysenko
+* 🔗 https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1564784360106600
+* 🔗 Solved questions in #UdaQuest , by @Aisha Javed @Shashank Jain
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564822221452000
+* 🔗 Participated in Kahoot quiz by @Kapil Chandorikar  on #l7_sec_federtd_learn  part - I got third rank , part - II got second rank
+congrats @Abhishek Tandon @Dishin Goyani @MarianoOG along with others who participated.
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564838505467700
+* 🔗 Collected several images for dataset collection for smog detection project #sg_planetearth
+* 🔗 https://github.com/souravs17031999/SmogDetection
+* 🔗 Problems solved in #sg_dlstarguys , #math_help by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1564796022174800
+* ✅ Awesome meetup for discussion on smog detection project #sg_planetearth with @Shudipto Trafder @Viper @Akash Antony @Sayed Maheen Basheer @Berenice @Agata [OR, USA] @Ingus Terbets @Pooja Vinod @Hung @Alexander Villasoto
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+* 📷 [pics/d37p6.jpg](pics/d37p6.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava @barabash @Qurat Ul Ain Fatima @Kapil Chandorikar @Ingus Terbets @Rumanu
+#udacityfacebookscholar
+#60daysofudacity
