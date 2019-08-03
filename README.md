@@ -792,10 +792,10 @@ congrats @Abhishek Tandon @Dishin Goyani @MarianoOG along with others who partic
 * 🔗 Problems solved in #sg_dlstarguys , #math_help by @Sayali_Kutwal
 * 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1564796022174800
 * ✅ Awesome meetup for discussion on smog detection project #sg_planetearth with @Shudipto Trafder @Viper @Akash Antony @Sayed Maheen Basheer @Berenice @Agata [OR, USA] @Ingus Terbets @Pooja Vinod @Hung @Alexander Villasoto
-* 📷 [pics/d38p1.jpg](pics/d38p1.PNG)
+* 📷 [pics/d38p1.jpg](pics/d38p1.png)
 * 📷 [pics/d38p2.jpg](pics/d38p2.JPG)
-* 📷 [pics/d38p3.jpg](pics/d38p3.PNG)
-* 📷 [pics/d38p4.jpg](pics/d38p4.PNG)
+* 📷 [pics/d38p3.jpg](pics/d38p3.png)
+* 📷 [pics/d38p4.jpg](pics/d38p4.png)
 * 📷 [pics/d38p5.jpg](pics/d38p5.JPG)
 * 📷 [pics/d38p6.jpg](pics/d38p6.JPG)
 * 📷 [pics/d38p7.jpg](pics/d38p7.JPG)
