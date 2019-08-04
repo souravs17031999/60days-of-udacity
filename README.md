@@ -803,3 +803,29 @@ congrats @Abhishek Tandon @Dishin Goyani @MarianoOG along with others who partic
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava @barabash @Qurat Ul Ain Fatima @Kapil Chandorikar @Ingus Terbets @Rumanu
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 39 [4/8/19] Completed :
+* ✅ Solved questions and discussed for #sg_pytorch_begin  - 24 , by @Mariia Denysenko
+* 🔗 https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1564867006112700
+* ✅ Solved easy and fun maths problems in #sg_dlstarguys, by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1564881185178000
+* ✅ Wrote a Medium article on " Encrypted deep learning techniques " which also discusses modular arithmetic
+* 🔗 https://medium.com/secure-and-private-ai-writing-challenge/encrypted-deep-learning-techniques-with-pysyft-cf907c0fca2b
+* ✅ Participated in kahoot quiz , came III , thanks @Michael Sheinman for awesome quiz.
+congrats @Agata [OR, USA] @Abhishek Tandon and others who have participated.
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564923786082400
+* ✅ Working on Week -4 of maths for machine learning course on coursera #sg_dlstarguys
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* ✅ Discussed about blogging competition with awesome maths enthusiasts
+* ✅ Read awesome articles on medium :
+* 🔗 https://towardsdatascience.com/6-techniques-which-help-me-study-machine-learning-five-days-per-week-fb3e889fad80
+* 🔗 https://towardsdatascience.com/the-limitations-of-machine-learning-a00e0c3040c6
+* 📷 [pics/d39p1.jpg](pics/d39p1.JPG)
+* 📷 [pics/d39p2.jpg](pics/d39p2.JPG)
+* 📷 [pics/d39p3.jpg](pics/d39p3.JPG)
+* 📷 [pics/d39p4.jpg](pics/d39p4.JPG)
+* 📷 [pics/d39p5.jpg](pics/d39p5.png)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava @barabash @Qurat Ul Ain Fatima @Kapil Chandorikar @Ingus Terbets @Rumanu
+#udacityfacebookscholar
+#60daysofudacity
