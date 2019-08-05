@@ -829,3 +829,26 @@ congrats @Agata [OR, USA] @Abhishek Tandon and others who have participated.
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Varez.W @Manisha @Shashi Gharti @Aniket Mitra @Michael Sheinman @Anna Scott@Ana@anne@Carlo David@Ritul@Labiba@Sabrina@Yemi @Sumanyu Rosha @Sankalp Dayal @Alejandro Aristizábal @Alejandro Galindo@nabhanpv@Aisha Javed@Shashank Jain@Munira Omar@Amina Assouane @Dharmendra Choudhary@Marce@Ursula Perez @Ivy@Agata [OR, USA] @Swapnil Gaikwad @Mohona @Mohit @Aarthi Alagammai@Shanmugapriya@Govind@Frida@LauraT @Yemi @Helena Barmer @Nishant Bharat@Shubhangi Jena@Fustincho @Dustin Gogoll@Sourav @Nirupama Singh @Pranjal Chaubey  @Dammy@Henrique Mello@Calincan Mircea Ioan@Diganta@Ashish Shrivastava @Govind @Muhammad Wajahat @Sayed Maheen Basheer @Shudipto Trafder @Karan Kishinani @Dimple Bhuta @Aarthi Alagammai@Shanmugapriya @Sushil Ghimire @Samuela Anastasi @Mariia Denysenko @Akash Antony @Akshay Pal@Aleksandra Deis @Seeratpal K. Jaura @annaSWE @Raunak Sarada @Sarah Majors@Melsara @Henrique Mello @Nawal @Ronit @susyjam @Venkata Rathnam Muralidharan @Abhishek Lalwani@shivu@Khush@Diego @Mika @Tyler Yang @Manjeet Kaur @Rishi S Rao @Abhishek Tandon @iArunava @barabash @Qurat Ul Ain Fatima @Kapil Chandorikar @Ingus Terbets @Rumanu
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 40 [5/8/19] Completed :
+* ✅ Solved questions for #tidbits by @Mansi Goyal
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1564988641160300
+* ✅ Solved questions in easy and fun maths problems by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1564967304182400
+* ✅ Working on week -4 "orthogonal bases" for maths for machine learning #sg_dlstarguys
+* 🔗 https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* ✅ Revisiting concepts of ML through ML crash course by google
+ https://developers.google.com/machine-learning/crash-course/ml-intro
+* ✅ Answered several questions in #ama_sessions
+* ✅ Corrected few errors in final secured federated learning project
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_secured_fed_securing.ipynb
+* 🔗 Track the progress here : https://github.com/souravs17031999/60days-of-udacity
+* 📷 [pics/d40p1.jpg](pics/d40p1.JPG)
+* 📷 [pics/d40p2.jpg](pics/d40p2.JPG)
+* 📷 [pics/d40p3.jpg](pics/d40p3.JPG)
+* 📷 [pics/d40p4.jpg](pics/d40p4.JPG)
+* 📷 [pics/d40p5.jpg](pics/d40p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed @LauraT @Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani @Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis @Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain
+#udacityfacebookscholar
+#60daysofudacity
