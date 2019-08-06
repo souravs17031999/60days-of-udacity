@@ -852,3 +852,23 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Va
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed @LauraT @Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani @Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis @Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 41 [6/8/19] completed :
+* ✅ Solved questions for #UdaQuest in #general by @Aisha Javed @Shashank Jain 
+* ➡️ https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1565084861224300
+* ✅ Solved question in easy and fun maths problem by @Sayali_Kutwal 
+* ➡️ https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1565060307192000
+* ✅ Participated in _meetup_ for Maths blogging competition by @Aniket Mitra and discussed about activities and our course progress #sg_dlstarguys #math_help .
+Thanks to @Diganta for great information regarding various topics on maths and machine learning and various research papers.
+* ✅ Participated in _meetup_ with @Diganta @Arka @Xerous @Disha Mendiratta @Anshu Trivedi for Galaxy identification and it's chemical spectrum analysis project
+* ✅ Working on week -4 Gram–Schmidt process for maths for machine learning coursera course
+* ➡️ https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
+* 📷 [pics/d41p1.jpg](pics/d41p1.JPG)
+* 📷 [pics/d41p2.jpg](pics/d41p2.JPG)
+* 📷 [pics/d41p3.jpg](pics/d41p3.JPG)
+* 📷 [pics/d41p4.jpg](pics/d41p4.JPG)
+* 📷 [pics/d41p5.jpg](pics/d41p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo @Sabrina @Aisha Javed @LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani @Samuela Anastasi @Akash Antony @Akshay Pal @Mariia Denysenko @Aleksandra Deis @Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain @Diganta @Anshu Trivedi @Disha Mendiratta @Xerous 
+#udacityfacebookscholar
+#60daysofudacity
