@@ -918,3 +918,30 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 44 [9/8/19] Completed :
+* ✅ Solved questions for #sg_pytorch_begin  - 26 , really amazing questions @Kapil Chandorikar
+* 🔗 https://secureprivataischolar.slack.com/archives/CL55WHVV2/p1565291183139200
+* ✅ Solved questions in #tidbits by @Mansi Goyal
+* 🔗 https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1565353172391200
+* ✅ Solved question easy and fun maths problem by @Sayali_Kutwal #sg_dlstarguys #math_help
+* 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1565317859253900
+* ✅ Had awesome meetup with @Diganta @VENKTESH @Venkatesh @Disha Mendiratta @Anshu Trivedi @Mushrifah Hasan
+for Galaxy Identification project.
+* ✅ Worked on project Smog Detection project with great team #sg_planetearth and acheived 98% testing accuracy on test data.
+* ✅ Posted about MathsBlogging competition on SPARC fb page and twitter.
+* ✅ Read these medium articles :
+* 🔗 https://towardsdatascience.com/why-better-weight-initialization-is-important-in-neural-networks-ff9acf01026d* 
+* 🔗 https://towardsdatascience.com/why-and-how-to-do-cross-validation-for-machine-learning-d5bd7e60c189
+* ✅ Watched this awesome video by @Seeratpal K. Jaura
+* 🔗 https://www.youtube.com/watch?v=ILSdCJyDCVs&feature=youtu.be
+* 📷 [pics/d44p1.jpg](pics/d44p1.JPG)
+* 📷 [pics/d44p2.jpg](pics/d44p2.JPG)
+* 📷 [pics/d44p3.jpg](pics/d44p3.JPG)
+* 📷 [pics/d44p4.jpg](pics/d44p4.JPG)
+* 📷 [pics/d44p5.jpg](pics/d44p5.JPG)
+* 📷 [pics/d44p6.jpg](pics/d44p6.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis @Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain @Diganta @Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad
+#udacityfacebookscholar
+#60daysofudacity
