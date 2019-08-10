@@ -957,12 +957,12 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 * ✅ Read Awesome medium articles submitted for [Maths Blogging competition]
 * 🔗 https://medium.com/secure-and-private-ai-math-blogging-comp…
 * ✅ Working for finishing #sg_planetearth project , thanks to @Shudipto Trafder @Berenice @George Christopoulos
-* 📷 [pics/d45p1.jpg](pics/d44p1.JPG)
-* 📷 [pics/d45p2.jpg](pics/d44p2.JPG)
-* 📷 [pics/d45p3.jpg](pics/d44p3.JPG)
-* 📷 [pics/d45p4.jpg](pics/d44p4.JPG)
-* 📷 [pics/d45p5.jpg](pics/d44p5.JPG)
-* 📷 [pics/d45p6.jpg](pics/d44p6.png)
+* 📷 [pics/d45p1.jpg](pics/d45p1.JPG)
+* 📷 [pics/d45p2.jpg](pics/d45p2.JPG)
+* 📷 [pics/d45p3.jpg](pics/d45p3.JPG)
+* 📷 [pics/d45p4.jpg](pics/d45p4.JPG)
+* 📷 [pics/d45p5.jpg](pics/d45p5.JPG)
+* 📷 [pics/d45p6.jpg](pics/d45p6.png)
 
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain @Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal @Agata [OR, USA] @Berenice @Calincan Mircea Ioan
 
