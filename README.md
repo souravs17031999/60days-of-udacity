@@ -945,3 +945,27 @@ for Galaxy Identification project.
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis @Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain @Diganta @Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 45 [10/8/19] Completed :
+* ✅ Solved questions for easy and fun maths problems by @Sayali_Kutwal #sg_dlstarguys #math_help
+* 🔗 https://secureprivataischolar.slack.com/…/CL7PWDFJS/p156540…
+* ✅ Working on Keystone to implement federated learning and encrypted deep learning but since GPU is not implemented for various methods of Pysyft thus taking longer time.
+* ✅ Awesome meetup with friends @Sumanyu Rosha @Sabrina @Labiba for NLP emotion recognition project #sg_caffeine_coders
+* ✅ Read paper on “Why Should I Trust You?” Explaining the Predictions of Any Classifier and solved the quiz , got 92.9 %
+* 🔗 https://arxiv.org/pdf/1602.04938v3.pdf
+* 🔗 https://es.surveymonkey.com/r/V953BZW
+* ✅ Read Awesome medium articles submitted for [Maths Blogging competition]
+* 🔗 https://medium.com/secure-and-private-ai-math-blogging-comp…
+* ✅ Working for finishing #sg_planetearth project , thanks to @Shudipto Trafder @Berenice @George Christopoulos
+* 📷 [pics/d45p1.jpg](pics/d44p1.JPG)
+* 📷 [pics/d45p2.jpg](pics/d44p2.JPG)
+* 📷 [pics/d45p3.jpg](pics/d44p3.JPG)
+* 📷 [pics/d45p4.jpg](pics/d44p4.JPG)
+* 📷 [pics/d45p5.jpg](pics/d44p5.JPG)
+* 📷 [pics/d45p6.jpg](pics/d44p6.png)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain @Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal @Agata [OR, USA] @Berenice @Calincan Mircea Ioan
+
+#udacityfacebookscholar
+
+#60daysofudacity
