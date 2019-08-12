@@ -991,3 +991,26 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony@Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal @Agata [OR, USA] @Berenice @Calincan Mircea Ioan
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 47 [12/8/19] Completed :
+* ✅ Solved questions for #sg_pytorch_begin - 28
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156556…
+* ✅ Worked on NLP emotion recognition #sg_caffeine_coders for data preprocessing with awesome friends @Sabrina @Sumanyu Rosha @Labiba
+* ✅ Worked on Keystone project combining federated learning and encrypted learning
+* ✅ Working on GCP Baseline: Data, ML, AI Qwiklabs
+* 🔗 https://run.qwiklabs.com/quests/34
+* ✅ Discussed with #sg_planetearth for project finishing as it is now completed , now few more work left.
+* ✅ Read awesome medium articles and watched one video :
+* 🔗 https://towardsdatascience.com/how-neural-networks-are-lear…
+* 🔗 https://towardsdatascience.com/how-to-prepare-texts-reviews…
+* 🔗 https://www.youtube.com/watch?v=lVHRs3uTHNI
+* 📷 [pics/d47p1.jpg](pics/d47p1.JPG)
+* 📷 [pics/d47p2.jpg](pics/d47p2.JPG)
+* 📷 [pics/d47p3.jpg](pics/d47p3.JPG)
+* 📷 [pics/d47p4.jpg](pics/d47p4.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal @Agata [OR, USA] @Berenice @Calincan Mircea Ioan
+
+#udacityfacebookscholar
+
+#60daysofudacity
