@@ -1014,3 +1014,26 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 48 [13/8/19] Completed :
+* ✅ Working on NLP emotion recognition project with awesome teammates @Sabrina @Sumanyu Rosha @Labiba
+* ✅ Finished Keystone project combining federated learning with encryption techniques on testing of model.
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Keystone_project.ipynb
+Thanks so much @Alejandro Aristizábal for helping me out !
+* ✅ Discussed about maths blogging competition and designed badges for winners ! 📷
+Congrats @Rishi S Rao @Juan Carlos Kuri Pinto @Dupuy Nicolas
+* ✅ Continued reading paper now on "Image Super-Resolution Using Deep Convolutional Networks"
+* 🔗 https://arxiv.org/pdf/1501.00092.pdf
+* ✅ Continued encouraging scholars for finishing the course asap.
+* ✅ Read awesome articles on medium :
+* 🔗 https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
+* 🔗 https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d
+* 📷 [pics/d48p1.jpg](pics/d48p1.JPG)
+* 📷 [pics/d48p2.jpg](pics/d48p2.JPG)
+* 📷 [pics/d48p3.jpg](pics/d48p3.JPG)
+* 📷 [pics/d48p4.jpg](pics/d48p4.JPG)
+* 📷 [pics/d48p5.jpg](pics/d48p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal @Agata [OR, USA] @Berenice @Calincan Mircea Ioan
+#udacityfacebookscholar
+#60daysofudacity
