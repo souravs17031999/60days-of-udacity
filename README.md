@@ -1060,3 +1060,25 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 50: Completed :
+* ✅ Solved questions in easy and fun maths problems #math_help #sg_dlstarguys by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/…/CKRP153JS/p156583…
+* ✅Worked on NLP emotion recognition project and got accuracy of 98% using different tuning of hyperparameters with awesome friends @Sumanyu Rosha @Sabrina @Labiba
+* ✅ Worked on documenting the smog detection project #sg_planetearth
+* 🔗 https://github.com/souravs17031999/SmogDetection/…/README.md
+* ✅ Special eigen cases Week -5 of coursera course of maths for machine learning : linear algebra
+* 🔗 https://www.coursera.org/…/lecture/urLNy/special-eigen-cases
+* ✅ Read medium articles :
+* 🔗 https://medium.com/…/the-threat-of-googles-deepmind-9fe9e55…
+* 🔗 https://medium.com/…/predicting-the-publishers-name-from-an…
+* 📷 [pics/d50p1.jpg](pics/d50p1.JPG)
+* 📷 [pics/d50p2.jpg](pics/d50p2.JPG)
+* 📷 [pics/d50p3.jpg](pics/d50p3.JPG)
+* 📷 [pics/d50p4.jpg](pics/d50p4.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
+
+#udacityfacebookscholar
+
+#60daysofudacity
