@@ -1061,7 +1061,7 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 
 #60daysofudacity
 
-## DAY 50: Completed :
+## DAY 50 [15/8/19] Completed :
 * ✅ Solved questions in easy and fun maths problems #math_help #sg_dlstarguys by @Sayali_Kutwal
 * 🔗 https://secureprivataischolar.slack.com/…/CKRP153JS/p156583…
 * ✅Worked on NLP emotion recognition project and got accuracy of 98% using different tuning of hyperparameters with awesome friends @Sumanyu Rosha @Sabrina @Labiba
