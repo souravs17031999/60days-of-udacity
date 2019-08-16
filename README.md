@@ -1082,3 +1082,27 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 51 [16/8/19] Completed :
+* ✅ Solved questions in easy and fun maths problems #math_help #sg_dlstarguys by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/…/CL7PWDFJS/p156592…
+* ✅ Solved question in #tidbits by @Mansi Goyal
+* 🔗 https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156595…
+* ✅ Solved questions and trying to reach final solution #sg_pytorch_begin
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156590…
+* ✅ Discussed about deployment related ideas for NLP emotion recognition project with awesome friends @Sabrina @Sumanyu Rosha @Labiba
+* ✅ Made a poll for finalizing the project for showcase #sg_planetearth and discussed about finishing documentation part.
+* ✅ Read awesome medium articles:
+* 🔗 https://towardsdatascience.com/a-big-of-tricks-for-image-cl…
+* 🔗 https://medium.com/…/new-state-of-the-art-ai-optimizer-rect…
+* 📷 [pics/d51p1.jpg](pics/d51p1.JPG)
+* 📷 [pics/d51p2.jpg](pics/d51p2.JPG)
+* 📷 [pics/d51p3.jpg](pics/d51p3.JPG)
+* 📷 [pics/d51p4.jpg](pics/d51p4.JPG)
+* 📷 [pics/d51p5.jpg](pics/d51p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
+
+#udacityfacebookscholar
+
+#60daysofudacity
