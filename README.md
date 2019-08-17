@@ -1119,10 +1119,10 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 * 🔗 https://arxiv.org/pdf/1602.04938v3.pdf
 * ✅ Discussed documentation part with team #sg_planetearth
 * ✅ Working on finishing individual projects for showcase
-* 📷 [pics/d52p1.jpg](pics/d52p1.JPG)
+* 📷 [pics/d52p1.jpg](pics/d52p1.png)
 * 📷 [pics/d52p2.jpg](pics/d52p2.JPG)
 * 📷 [pics/d52p3.jpg](pics/d52p3.JPG)
-* 📷 [pics/d52p4.jpg](pics/d52p4.JPG)
+* 📷 [pics/d52p4.jpg](pics/d52p4.png)
 
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
 
