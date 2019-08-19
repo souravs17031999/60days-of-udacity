@@ -251,7 +251,7 @@ Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Shein
 
 ## DAY 15 [11/7/19] Completed :
 * ✅ Completed Federated Learning Project
-* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_federated_learning.ipynb
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
 * ✅ Started #l7_sec_federtd_learn
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
 * ✅ Solved Maths problems Set - 2 quiz #math_help
@@ -272,7 +272,7 @@ I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankal
 
 ## DAY 16 [12/7/19] Completed :
 * ✅ Completed Project on Hot dog or not Hot dog kaggle problem with 90% accuracy (hoping to do more tomorrow) 🙂
-* 🔗 https://github.com/souravs17031999/kaggle-problems/blob/master/hot_dog_or_not_hotdog.ipynb
+* 🔗 https://github.com/souravs17031999/Projects-kaggle-problems-60daysofudacity/blob/master/hot_dog_or_not_dog.ipynb
 * ✅ Completed 8.1 - 8.3 in #l7_sec_federtd_learn
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
 * ✅ Watched google I/O '19 , federated learning videos
