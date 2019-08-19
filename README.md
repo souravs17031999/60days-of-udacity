@@ -3,8 +3,8 @@
 
 ## DAY 1 [27/6/19] Completed :
 * ✅ notebooks of differential privacy , sensitivity and differential attack
-* 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
-* 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/differential_privacy_attack.ipynb
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/differential_privacy_sensitvity1.ipynb
 * 📷 [pics/d1p1.jpg](pics/d1p1.JPG)
 * 📷 [pics/d1p2.jpg](pics/d1p2.JPG)
 
@@ -17,9 +17,9 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 
 ## DAY 2 [28/6/19] Completed :
 
-* ✅ Project -IV :🔗 https://github.com/…/noise_and_without_noise_db_analysis.ip…
+* ✅ Project -IV :🔗 https://github.com/souravs17031999/private-ai/blob/master/noise_and_without_noise_db_analysis.ipynb
 * ➡️ I learnt to implement local differential privacy in the database by adding noise to the input data and how it affects the statistics.
-* ✅ Project - V :🔗 https://github.com/…/random_noise_analysis_differential_pri…
+* ✅ Project - V :🔗 https://github.com/souravs17031999/private-ai/blob/master/random_noise_analysis_differential_private_ai.ipynb
 * ➡️ I learnt how to add random noise by adding bias to the coin toss algorithm and how it affects the statistics and observe the changes while i grow the size of dataset.
 * 📷 [pics/d2p2.jpg](pics/d2p2.jpg)
 * 📷 [pics/d2p2.jpg](pics/d2p2.JPG)
