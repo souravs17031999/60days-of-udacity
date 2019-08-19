@@ -1149,3 +1149,25 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 54 [19/8/19] Completed :
+* ✅ Solved questions in #tidbits by @Mansi Goyal
+* ➡️https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1566227852394800
+* ✅ Solved easy and fun maths puzzles by @Sayali_Kutwal
+* ➡️ https://secureprivataischolar.slack.com/archives/CKRP153JS/p1566189424299700
+* ✅ Worked on implementing federated learning on NLP emotion recognition , encountering so many bugs and solving them with the help of our team @Sabrina @Labiba @Sumanyu Rosha
+* ✅ Worked and completed smog detection project with #sg_planetearth . kudos to you guys !
+* ✅ Writing documentation for other projects.
+* ✅ Answered several questions in #ama_sessions
+* ✅ Read awesome medium articles :
+* ➡️ https://medium.com/coinmonks/smote-and-adasyn-handling-imbalanced-data-set-34f5223e167
+* ➡️ https://towardsdatascience.com/detecting-retina-damage-from-oct-retinal-images-315b4af62938
+* 📷 [pics/d54p1.jpg](pics/d54p1.JPG)
+* 📷 [pics/d54p2.jpg](pics/d54p2.JPG)
+* 📷 [pics/d54p3.jpg](pics/d54p3.JPG)
+* 📷 [pics/d54p4.jpg](pics/d54p4.JPG)
+* 📷 [pics/d54p5.jpg](pics/d54p5.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
+#udacityfacebookscholar
+#60daysofudacity
