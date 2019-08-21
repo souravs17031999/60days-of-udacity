@@ -3,8 +3,8 @@
 
 ## DAY 1 [27/6/19] Completed :
 * ✅ notebooks of differential privacy , sensitivity and differential attack
-* 🔗 https://github.com/…/mast…/differential_privacy_attack.ipynb …
-* 🔗 https://github.com/…/master/differential_privacy_sensitvity… …
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/differential_privacy_attack.ipynb
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/differential_privacy_sensitvity1.ipynb
 * 📷 [pics/d1p1.jpg](pics/d1p1.JPG)
 * 📷 [pics/d1p2.jpg](pics/d1p2.JPG)
 
@@ -17,9 +17,9 @@ Today i would like to encourage @elie.wanko@manishajhunjhunwala7@shashi.gharti@s
 
 ## DAY 2 [28/6/19] Completed :
 
-* ✅ Project -IV :🔗 https://github.com/…/noise_and_without_noise_db_analysis.ip…
+* ✅ Project -IV :🔗 https://github.com/souravs17031999/private-ai/blob/master/noise_and_without_noise_db_analysis.ipynb
 * ➡️ I learnt to implement local differential privacy in the database by adding noise to the input data and how it affects the statistics.
-* ✅ Project - V :🔗 https://github.com/…/random_noise_analysis_differential_pri…
+* ✅ Project - V :🔗 https://github.com/souravs17031999/private-ai/blob/master/random_noise_analysis_differential_private_ai.ipynb
 * ➡️ I learnt how to add random noise by adding bias to the coin toss algorithm and how it affects the statistics and observe the changes while i grow the size of dataset.
 * 📷 [pics/d2p2.jpg](pics/d2p2.jpg)
 * 📷 [pics/d2p2.jpg](pics/d2p2.JPG)
@@ -251,7 +251,7 @@ Today , i encourage Elie Varez@Shashi Gharti @Manisha @Sky @Mohit @Michael Shein
 
 ## DAY 15 [11/7/19] Completed :
 * ✅ Completed Federated Learning Project
-* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Final_federated_learning.ipynb
+* 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%202%20-%20Federated%20Learning.ipynb
 * ✅ Started #l7_sec_federtd_learn
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
 * ✅ Solved Maths problems Set - 2 quiz #math_help
@@ -272,7 +272,7 @@ I would like to encourage @Aniket Mitra Archit Garg @George Christopoulos Sankal
 
 ## DAY 16 [12/7/19] Completed :
 * ✅ Completed Project on Hot dog or not Hot dog kaggle problem with 90% accuracy (hoping to do more tomorrow) 🙂
-* 🔗 https://github.com/souravs17031999/kaggle-problems/blob/master/hot_dog_or_not_hotdog.ipynb
+* 🔗 https://github.com/souravs17031999/Projects-kaggle-problems-60daysofudacity/blob/master/hot_dog_or_not_dog.ipynb
 * ✅ Completed 8.1 - 8.3 in #l7_sec_federtd_learn
 * 🔗 https://github.com/souravs17031999/private-ai/blob/master/Section%203%20-%20Securing%20Federated%20Learning.ipynb
 * ✅ Watched google I/O '19 , federated learning videos
@@ -1170,5 +1170,19 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 * 📷 [pics/d54p6.jpg](pics/d54p6.JPG)
 
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
+#udacityfacebookscholar
+#60daysofudacity
+
+## DAY 55 [20/8/19] Completed :
+* ✅ Worked on completing project : Emotion recognition using NLP with awesome team @Sumanyu Rosha@Labiba @Sabrina
+* ✅ Worked on completing project : Smog detection project with awesome team @Shudipto Trafder@Berenice @Agata [OR, USA] @Ingus Terbets @Akash Antony @George Christopoulos @Alexander Villasoto @Pooja Vinod @Viper @Sayed Maheen Basheer @Abhishek Lalwani @LauraT
+* ✅ Worked on completing my project - I : Implementing neural style transfer
+* ✅ Worked on completing my project - II : Federated learning and testing on encrypted dataset and model for MNIST
+* 📷 [pics/d55p1.jpg](pics/d55p1.JPG)
+* 📷 [pics/d55p2.jpg](pics/d55p2.JPG)
+* 📷 [pics/d55p3.jpg](pics/d55p3.JPG)
+
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio@Sourav
 #udacityfacebookscholar
 #60daysofudacity
