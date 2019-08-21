@@ -1187,7 +1187,7 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 #60daysofudacity
 
-## DAY 56: Completed :
+## DAY 56 [21/8/19] Completed :
 * ✅ Solved questions in easy and fun maths problems #math_help #sg_dlstarguys by @Sayali_Kutwal
 * 🔗 https://secureprivataischolar.slack.com/archives/CL7PWDFJS/p1566349064319900
 * ✅ Working on GCP Dataprep: Qwik Start Qwiklabs
