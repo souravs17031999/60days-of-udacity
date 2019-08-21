@@ -1172,3 +1172,17 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 55 [20/8/19] Completed :
+* ✅ Worked on completing project : Emotion recognition using NLP with awesome team @Sumanyu Rosha@Labiba @Sabrina
+* ✅ Worked on completing project : Smog detection project with awesome team @Shudipto Trafder@Berenice @Agata [OR, USA] @Ingus Terbets @Akash Antony @George Christopoulos @Alexander Villasoto @Pooja Vinod @Viper @Sayed Maheen Basheer @Abhishek Lalwani @LauraT
+* ✅ Worked on completing my project - I : Implementing neural style transfer
+* ✅ Worked on completing my project - II : Federated learning and testing on encrypted dataset and model for MNIST
+* 📷 [pics/d55p1.jpg](pics/d55p1.JPG)
+* 📷 [pics/d55p2.jpg](pics/d55p2.JPG)
+* 📷 [pics/d55p3.jpg](pics/d55p3.JPG)
+
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio@Sourav
+#udacityfacebookscholar
+#60daysofudacity
