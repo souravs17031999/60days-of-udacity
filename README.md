@@ -1207,3 +1207,26 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho @Antonio@Sourav
 #udacityfacebookscholar
 #60daysofudacity
+
+## DAY 57 [22/8/19] Completed :
+* ✅ Working on writing blog on final keystone project
+* ✅ Made a video on pytorch autograd module in 90seconds challenge in #sg_caffeine_coders for caffeine90 activity.
+* 🔗 https://www.youtube.com/watch?v=0AcNAJinqWM
+* ✅ Discussed on maths blogging competition phase -2 with awesome maths enthusiasts @Aniket Mitra @Mohona @Labiba @Archit @Agata [OR, USA] @Calincan Mircea Ioan @Diganta
+wanna participate , head over to :
+* 🔗 https://secureprivataischolar.slack.com/…/CL7PWDFJS/p156648…
+* ✅ Completing the last week -5 for maths for machine learning , now on "Visualising Matrices and Eigen" #sg_dlstarguys
+* 🔗 https://www.coursera.org/…/A…/visualising-matrices-and-eigen
+* ✅ Read awesome medium articles :
+* 🔗 https://medium.com/…/the-amazing-tech-stack-of-openmined-a4…
+* 🔗 https://towardsdatascience.com/why-you-should-learn-about-s…
+* 📷 [pics/d57p1.jpg](pics/d57p1.JPG)
+* 📷 [pics/d57p2.jpg](pics/d57p2.JPG)
+* 📷 [pics/d57p3.jpg](pics/d57p3.JPG)
+* 📷 [pics/d57p4.jpg](pics/d57p4.JPG)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira @Fustincho@Antonio@Sourav
+
+#udacityfacebookscholar
+
+#60daysofudacity
