@@ -1221,7 +1221,7 @@ wanna participate , head over to :
 * 🔗 https://medium.com/…/the-amazing-tech-stack-of-openmined-a4…
 * 🔗 https://towardsdatascience.com/why-you-should-learn-about-s…
 * 📷 [pics/d57p1.jpg](pics/d57p1.JPG)
-* 📷 [pics/d57p2.jpg](pics/d57p2.JPG)
+* 📷 [pics/d57p2.jpg](pics/d57p2.gif)
 * 📷 [pics/d57p3.jpg](pics/d57p3.JPG)
 * 📷 [pics/d57p4.jpg](pics/d57p4.JPG)
 
