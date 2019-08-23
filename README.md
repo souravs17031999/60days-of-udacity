@@ -1230,3 +1230,23 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 58 [23/8/19] Completed :
+* ✅ Solved questions in easy and fun maths problems #math_help #sg_dlstarguys by @Sayali_Kutwal
+* 🔗 https://secureprivataischolar.slack.com/…/CL7PWDFJS/p156652…
+* ✅ Solved questions in #sg_pytorch_begin Day30
+* 🔗 https://secureprivataischolar.slack.com/…/CL55WHVV2/p156651…
+* ✅ Working on completing blog on my keystone project
+* ✅ Released My second Google Assistant App : " Deep learn " for questions on deep learning and privacy preserving deep learning !
+  Just say " hey google , talk to deep learn " and enjoy
+  For now , it contains few questions , but soon it will be a big question bank !
+* 🔗 https://assistant.google.com/servic…/a/uid/000000dd9137a935…
+* ✅ Read awesome medium articles :
+* 🔗 https://towardsdatascience.com/beating-video-games-with-dee…
+* 🔗 https://medium.com/…/predicting-pokemon-battle-winner-using…
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira@Fustincho@Antonio@Sourav
+
+#udacityfacebookscholar
+
+#60daysofudacity
