@@ -1255,3 +1255,25 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 #udacityfacebookscholar
 
 #60daysofudacity
+
+## DAY 59 [24/8/19] Completed :
+
+* ✅ Complete Blog on keystone project combining federated learning and encrypted multi party computations on MNIST
+* ➡️https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
+* ✅ Got 2nd place :second_place_medal: in today's kahoot quiz in #general for complete course , by @Kapil Chandorikar
+* ➡️ https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156665…
+* ✅ Exploring codebase of Pysyft , got deeper insights of implementations (will share in lessons channel soon)
+* ✅ Read awesome medium articles :
+* ➡️ https://towardsdatascience.com/recent-advances-for-a-better…
+* ➡️ https://towardsdatascience.com/pysyft-and-the-emergence-of-…
+* 📷 [pics/d59p1.jpg](pics/d59p1.JPG)
+* 📷 [pics/d59p2.jpg](pics/d59p2.JPG)
+* 📷 [pics/d59p3.jpg](pics/d59p3.JPG)
+* 📷 [pics/d59p4.jpg](pics/d59p4.JPG)
+* 📷 [pics/d59p5.jpg](pics/d59p5.gif)
+
+I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira@Fustincho@Antonio@Sourav @Aniket Mitra @Swapnil Gaikwad
+
+#udacityfacebookscholar
+
+#60daysofudacity
