@@ -1270,7 +1270,7 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 * 📷 [pics/d59p2.jpg](pics/d59p2.JPG)
 * 📷 [pics/d59p3.jpg](pics/d59p3.JPG)
 * 📷 [pics/d59p4.jpg](pics/d59p4.JPG)
-* 📷 [pics/d59p5.jpg](pics/d59p5.gif)
+* 📷 [pics/d59p5.jpg](pics/d59p5.png)
 
 I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira@Fustincho@Antonio@Sourav @Aniket Mitra @Swapnil Gaikwad
 
