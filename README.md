@@ -1289,6 +1289,12 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 * ✅ Read awesome medium articles :
 * 🔗 (Must read) :  https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
 * 🔗 https://towardsdatascience.com/why-openmined-is-becoming-a-role-model-for-open-source-projects-ae11749fc577
+* 📷 [pics/d60p1.jpg](pics/d60p1.JPG)
+* 📷 [pics/d60p2.jpg](pics/d60p2.JPG)
+* 📷 [pics/d60p3.jpg](pics/d60p3.JPG)
+* 📷 [pics/d60p4.jpg](pics/d60p4.JPG)
+* 📷 [pics/d60p5.jpg](pics/d60p5.JPG)
+
 Finally did it today !
 Thanks for your continuous support and motivation @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira@Fustincho@Antonio@Sourav @Aniket Mitra@Swapnil Gaikwad
 #udacityfacebookscholar
