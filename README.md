@@ -1259,13 +1259,13 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 ## DAY 59 [24/8/19] Completed :
 
 * ✅ Complete Blog on keystone project combining federated learning and encrypted multi party computations on MNIST
-* ➡️https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
+* 🔗 https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
 * ✅ Got 2nd place :second_place_medal: in today's kahoot quiz in #general for complete course , by @Kapil Chandorikar
-* ➡️ https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156665…
+* 🔗 https://secureprivataischolar.slack.com/…/CJSCX4WAZ/p156665…
 * ✅ Exploring codebase of Pysyft , got deeper insights of implementations (will share in lessons channel soon)
 * ✅ Read awesome medium articles :
-* ➡️ https://towardsdatascience.com/recent-advances-for-a-better…
-* ➡️ https://towardsdatascience.com/pysyft-and-the-emergence-of-…
+* 🔗 https://towardsdatascience.com/recent-advances-for-a-better…
+* 🔗 https://towardsdatascience.com/pysyft-and-the-emergence-of-…
 * 📷 [pics/d59p1.jpg](pics/d59p1.JPG)
 * 📷 [pics/d59p2.jpg](pics/d59p2.JPG)
 * 📷 [pics/d59p3.jpg](pics/d59p3.JPG)
@@ -1276,4 +1276,20 @@ I today encourage all my awesome friends @Arka @Archit @George Christopoulos @Sh
 
 #udacityfacebookscholar
 
+#60daysofudacity
+
+## DAY 60 [25/8/19] Completed :
+* ✅ Made a small repo for creating custom federated datasets and dataloader using pysyft
+* 🔗 https://github.com/souravs17031999/Projects-kaggle-problems-60daysofudacity/blob/master/Pysyft_federated_dataset_creation.ipynb
+* ✅ Completed baseline AI infrastructure , and Cloud architechture for GCP QwiKLabs
+* 🔗 https://www.qwiklabs.com/quests/24
+* ✅ Exploring Pysyft codebase
+* ✅ Participated in Kahoot quiz in #general  by @Michael Sheinman
+* ✅ Submitted my video for appreciation towards 📷 Facebook and 📷 Udacity
+* ✅ Read awesome medium articles :
+* 🔗 (Must read) :  https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+* 🔗 https://towardsdatascience.com/why-openmined-is-becoming-a-role-model-for-open-source-projects-ae11749fc577
+Finally did it today !
+Thanks for your continuous support and motivation @Arka @Archit @George Christopoulos @Shashi Gharti @Anna Scott @anne @Carlo David @Labiba @Mohona @Alejandro Galindo@Sabrina @Aisha Javed@LauraT@Helena Barmer @Fustincho @Sourav @Nirupama Singh @Shudipto Trafder @Karan Kishinani@Samuela Anastasi @Akash Antony @Akshay Pal@Mariia Denysenko @Aleksandra Deis@Seeratpal K. Jaura @Raunak Sarada @Kapil Chandorikar @Sankalp Dayal @Shashank Jain@Diganta@Anshu Trivedi@Disha Mendiratta@Xerous @Swapnil Gaikwad @Alejandro Aristizábal@Agata [OR, USA] @Berenice @Calincan Mircea Ioan @Adriel Vieira@Fustincho@Antonio@Sourav @Aniket Mitra@Swapnil Gaikwad
+#udacityfacebookscholar
 #60daysofudacity
