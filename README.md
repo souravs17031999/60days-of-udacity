@@ -1313,4 +1313,6 @@ Thanks for your continuous support and motivation @Arka @Archit @George Christop
 👉 [Secure and private AI deep learning Google assistant app developer](https://assistant.google.com/services/a/uid/000000dd9137a935?source=web)       
 👉 [One of the organisers of Maths Blogging competition , all article here](https://medium.com/secure-and-private-ai-math-blogging-competition)
 
-![#60DAYSOFUDACITY END](pics/end.png)
+![#60DAYSOFUDACITY END](pics/end.gif)
+
+Thanks Udacity, Facebook, Openmined , Andrew Trask and his team.
