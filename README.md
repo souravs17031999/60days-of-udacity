@@ -1300,4 +1300,4 @@ Thanks for your continuous support and motivation @Arka @Archit @George Christop
 #udacityfacebookscholar
 #60daysofudacity
 
-![#60DAYSOFUDACITY BADGE](badge.png)
+![#60DAYSOFUDACITY BADGE](pics/badge.png)
