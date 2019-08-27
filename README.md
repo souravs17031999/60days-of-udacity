@@ -1301,3 +1301,16 @@ Thanks for your continuous support and motivation @Arka @Archit @George Christop
 #60daysofudacity
 
 ![#60DAYSOFUDACITY BADGE](pics/badge.png)
+
+[Completed individual projects](https://github.com/souravs17031999/Projects-kaggle-problems-60daysofudacity)
+[Completed individual project showcase](https://github.com/aksht94/UdacityOpenSource/tree/master/sourav%20kumar)
+[Completed group project showcase - I](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)
+[Completed group project showcase - II](https://github.com/aksht94/UdacityOpenSource/tree/master/Federated%20Emotion%20Recogniton)
+[Completed all notebooks for SPARC and keystone project implementation](https://github.com/souravs17031999/private-ai)
+[Written all Medium articles for SPARC topics and keystone project implementation blog](https://medium.com/@sauravkumarsct)
+[FATQS developement member repo and site](https://fatqs-private-and-secure-ai.herokuapp.com/)
+[Secure and private AI deep learning Google assistant app developer](https://assistant.google.com/services/a/uid/000000dd9137a935?source=web)
+[One of the organisers of Maths Blogging competition , all article here](https://medium.com/secure-and-private-ai-math-blogging-competition)
+
+
+
