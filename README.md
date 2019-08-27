@@ -1312,3 +1312,5 @@ Thanks for your continuous support and motivation @Arka @Archit @George Christop
 👉 [FATQS developement member repo and site](https://fatqs-private-and-secure-ai.herokuapp.com/)      
 👉 [Secure and private AI deep learning Google assistant app developer](https://assistant.google.com/services/a/uid/000000dd9137a935?source=web)       
 👉 [One of the organisers of Maths Blogging competition , all article here](https://medium.com/secure-and-private-ai-math-blogging-competition)
+
+![#60DAYSOFUDACITY END](pics/end.png)
